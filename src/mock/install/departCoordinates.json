@@ -1,0 +1,48 @@
+{
+  "code": "success",
+  "msg": "查询成功！",
+  "data": [
+    {
+      "depart_code": 103502010011,
+      "depart_name": "思明客户服务部",
+      "e_cust_total": 507,
+      "lng": 118.11794,
+      "lat": 24.483749
+    },
+    {
+      "depart_code": 103502010013,
+      "depart_name": "湖里客户服务部",
+      "e_cust_total": 498,
+      "lng": 118.086082,
+      "lat": 24.492369
+    },
+    {
+      "depart_code": 103502010016,
+      "depart_name": "集美客户服务部",
+      "e_cust_total": 571,
+      "lng": 118.052591,
+      "lat": 24.564227
+    },
+    {
+      "depart_code": 103502010017,
+      "depart_name": "海沧客户服务部",
+      "e_cust_total": 379,
+      "lng": 118.052591,
+      "lat": 24.564227
+    },
+    {
+      "depart_code": 103502010024,
+      "depart_name": "同安客户服务部",
+      "e_cust_total": 566,
+      "lng": 118.148151,
+      "lat": 24.735052
+    },
+    {
+      "depart_code": 103502010026,
+      "depart_name": "翔安客户服务部",
+      "e_cust_total": 501,
+      "lng": 118.250981,
+      "lat": 24.624774
+    }
+  ]
+}

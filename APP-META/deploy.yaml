@@ -1,0 +1,99 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: $SERVER_NAME
+  namespace: $K8S_PROJECT_NAME
+  labels:
+    app: $SERVER_NAME
+    app.kubernetes.io/name: $SERVER_NAME
+  annotations:
+    deployment.kubernetes.io/revision: '1'
+    servicemesh.kubesphere.io/enabled: 'true'
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: $SERVER_NAME
+      app.kubernetes.io/name: $SERVER_NAME
+  template:
+    metadata:
+      labels:
+        app: $SERVER_NAME
+        app.kubernetes.io/name: $SERVER_NAME
+    spec:
+      containers:
+        - name: $SERVER_NAME
+          image: $REGISTRY/$HARBOR_NAMESPACE/$SERVER_NAME:$BUILD_NUMBER
+          ports:
+            - name: http-port
+              containerPort: 80
+              protocol: TCP
+          resources:
+            limits:
+              cpu: '1'
+              memory: 2000Mi
+            requests:
+              cpu: 500m
+              memory: 1000Mi
+          terminationMessagePath: /dev/termination-log
+          terminationMessagePolicy: File
+          imagePullPolicy: Always
+#          readinessProbe:
+#            httpGet:
+#              path: /probe/readiness
+#              port: 80
+#            timeoutSeconds: 10
+#            failureThreshold: 15
+#            periodSeconds: 5
+      restartPolicy: Always
+      terminationGracePeriodSeconds: 30
+      dnsPolicy: ClusterFirst
+      serviceAccountName: default
+      serviceAccount: default
+      securityContext: {}
+      imagePullSecrets:
+        - name: harbor-secret
+      affinity: {}
+      schedulerName: default-scheduler
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxUnavailable: 25%
+      maxSurge: 25%
+  revisionHistoryLimit: 10
+  progressDeadlineSeconds: 600
+---
+apiVersion: v1
+kind: Service
+metadata:
+  # 服务名称
+  name: $SERVER_NAME
+  # 服务部署在ksyun-dev这个项目下
+  namespace: $K8S_PROJECT_NAME
+  labels:
+    # 服务名称
+    app: $SERVER_NAME
+    # 服务在k8s里面的命名
+    app.kubernetes.io/name: $SERVER_NAME
+  annotations:
+    kubesphere.io/serviceType: statelessservice
+    servicemesh.kubesphere.io/enabled: 'true'
+spec:
+  # 服务的访问配置
+  ports:
+    - name: http-port
+      protocol: TCP
+      # 服务的端口
+      port: 80
+      # docker暴露的端口
+      targetPort: 80
+      # 集群外访问的端口，根据项目拿到的端口号范围进行配置
+      nodePort: $NODE_PORT
+  selector:
+    # 服务名称
+    app: $SERVER_NAME
+    # 服务在k8s里面的命名
+    app.kubernetes.io/name: $SERVER_NAME
+  type: NodePort
+  sessionAffinity: None
+  externalTrafficPolicy: Cluster

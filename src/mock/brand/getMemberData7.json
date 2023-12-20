@@ -1,0 +1,9 @@
+{
+  "code": "success",
+  "msg": "查询成功！",
+  "data": {
+    "newMember": 1398,
+    "cardMember": 279,
+    "salesMember": 279
+  }
+}

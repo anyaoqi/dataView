@@ -1,0 +1,35 @@
+{
+  "code": "success",
+  "msg": "查询成功！",
+  "data": [
+    {
+      "department_name": "思明客户服务部",
+      "release_point": 516791,
+      "check_point": 371247
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "release_point": 867705,
+      "check_point": 623332
+    },
+    {
+      "department_name": "集美客户服务部",
+      "release_point": 1071901,
+      "check_point": 770020
+    },{
+      "department_name": "海沧客户服务部",
+      "release_point": 318646,
+      "check_point": 228905
+    },
+    {
+      "department_name": "同安客户服务部",
+      "release_point": 1287188,
+      "check_point": 924676
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "release_point": 979634,
+      "check_point": 703739
+    }
+  ]
+}

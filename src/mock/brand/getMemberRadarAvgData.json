@@ -1,0 +1,12 @@
+{
+  "code": "success",
+  "msg": "查询成功！",
+  "data": {
+    "price": 4,
+    "order": 3,
+    "product_price_type": 4,
+    "brand_loyalty": 3,
+    "active_count": 3,
+    "buy_count": 3
+  }
+}

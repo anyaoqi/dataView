@@ -1,0 +1,454 @@
+{
+  "code": "success",
+  "msg": "查询成功！",
+  "data": [
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "方春藤",
+      "belong_customer_num": 376,
+      "e_customer_num": 42,
+      "e_use_pass_num": 36,
+      "e_use_pass_rate": 85.71
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "陈文龙",
+      "belong_customer_num": 359,
+      "e_customer_num": 44,
+      "e_use_pass_num": 35,
+      "e_use_pass_rate": 79.55
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "刘昇",
+      "belong_customer_num": 360,
+      "e_customer_num": 60,
+      "e_use_pass_num": 46,
+      "e_use_pass_rate": 76.67
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "姜贞",
+      "belong_customer_num": 338,
+      "e_customer_num": 27,
+      "e_use_pass_num": 24,
+      "e_use_pass_rate": 88.89
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "许洪鹰",
+      "belong_customer_num": 362,
+      "e_customer_num": 42,
+      "e_use_pass_num": 34,
+      "e_use_pass_rate": 80.95
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "张盈",
+      "belong_customer_num": 339,
+      "e_customer_num": 40,
+      "e_use_pass_num": 33,
+      "e_use_pass_rate": 82.5
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "袁欢",
+      "belong_customer_num": 347,
+      "e_customer_num": 63,
+      "e_use_pass_num": 47,
+      "e_use_pass_rate": 74.6
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "周志谦",
+      "belong_customer_num": 323,
+      "e_customer_num": 35,
+      "e_use_pass_num": 29,
+      "e_use_pass_rate": 82.86
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "蔡奕新",
+      "belong_customer_num": 343,
+      "e_customer_num": 63,
+      "e_use_pass_num": 47,
+      "e_use_pass_rate": 74.6
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "陈正循",
+      "belong_customer_num": 366,
+      "e_customer_num": 37,
+      "e_use_pass_num": 26,
+      "e_use_pass_rate": 70.27
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "王钧",
+      "belong_customer_num": 363,
+      "e_customer_num": 54,
+      "e_use_pass_num": 40,
+      "e_use_pass_rate": 74.07
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "关锐",
+      "belong_customer_num": 408,
+      "e_customer_num": 60,
+      "e_use_pass_num": 55,
+      "e_use_pass_rate": 91.67
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "林明",
+      "belong_customer_num": 335,
+      "e_customer_num": 46,
+      "e_use_pass_num": 40,
+      "e_use_pass_rate": 86.96
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "邬晶晶",
+      "belong_customer_num": 390,
+      "e_customer_num": 50,
+      "e_use_pass_num": 50,
+      "e_use_pass_rate": 100
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "肖秀春",
+      "belong_customer_num": 379,
+      "e_customer_num": 48,
+      "e_use_pass_num": 44,
+      "e_use_pass_rate": 91.67
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "蔡绸绢",
+      "belong_customer_num": 448,
+      "e_customer_num": 54,
+      "e_use_pass_num": 49,
+      "e_use_pass_rate": 90.74
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "吴斌",
+      "belong_customer_num": 432,
+      "e_customer_num": 47,
+      "e_use_pass_num": 42,
+      "e_use_pass_rate": 89.36
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "陈善强",
+      "belong_customer_num": 423,
+      "e_customer_num": 48,
+      "e_use_pass_num": 40,
+      "e_use_pass_rate": 83.33
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "侯志育",
+      "belong_customer_num": 431,
+      "e_customer_num": 40,
+      "e_use_pass_num": 38,
+      "e_use_pass_rate": 95
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "纪君豪",
+      "belong_customer_num": 376,
+      "e_customer_num": 57,
+      "e_use_pass_num": 51,
+      "e_use_pass_rate": 89.47
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "林海滨",
+      "belong_customer_num": 301,
+      "e_customer_num": 48,
+      "e_use_pass_num": 41,
+      "e_use_pass_rate": 85.42
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "方立明",
+      "belong_customer_num": 480,
+      "e_customer_num": 55,
+      "e_use_pass_num": 47,
+      "e_use_pass_rate": 85.45
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "黄哲伟",
+      "belong_customer_num": 475,
+      "e_customer_num": 71,
+      "e_use_pass_num": 66,
+      "e_use_pass_rate": 92.96
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "陈攀",
+      "belong_customer_num": 463,
+      "e_customer_num": 72,
+      "e_use_pass_num": 62,
+      "e_use_pass_rate": 86.11
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "朱超",
+      "belong_customer_num": 411,
+      "e_customer_num": 54,
+      "e_use_pass_num": 49,
+      "e_use_pass_rate": 90.74
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "肖荣海",
+      "belong_customer_num": 467,
+      "e_customer_num": 76,
+      "e_use_pass_num": 74,
+      "e_use_pass_rate": 97.37
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "张雅敏",
+      "belong_customer_num": 286,
+      "e_customer_num": 50,
+      "e_use_pass_num": 47,
+      "e_use_pass_rate": 94
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "林堂鑫",
+      "belong_customer_num": 492,
+      "e_customer_num": 43,
+      "e_use_pass_num": 39,
+      "e_use_pass_rate": 90.7
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "余鸿勃",
+      "belong_customer_num": 437,
+      "e_customer_num": 52,
+      "e_use_pass_num": 48,
+      "e_use_pass_rate": 92.31
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "廖树龙",
+      "belong_customer_num": 472,
+      "e_customer_num": 53,
+      "e_use_pass_num": 44,
+      "e_use_pass_rate": 83.02
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "姚伟煌",
+      "belong_customer_num": 388,
+      "e_customer_num": 45,
+      "e_use_pass_num": 40,
+      "e_use_pass_rate": 88.89
+    },
+    {
+      "department_name": "海沧客户服务部",
+      "customer_manager": "潘建行",
+      "belong_customer_num": 388,
+      "e_customer_num": 54,
+      "e_use_pass_num": 39,
+      "e_use_pass_rate": 72.22
+    },
+    {
+      "department_name": "海沧客户服务部",
+      "customer_manager": "肖书欣",
+      "belong_customer_num": 422,
+      "e_customer_num": 96,
+      "e_use_pass_num": 86,
+      "e_use_pass_rate": 89.58
+    },
+    {
+      "department_name": "海沧客户服务部",
+      "customer_manager": "徐勇辉",
+      "belong_customer_num": 400,
+      "e_customer_num": 42,
+      "e_use_pass_num": 36,
+      "e_use_pass_rate": 85.71
+    },
+    {
+      "department_name": "海沧客户服务部",
+      "customer_manager": "龙伟超",
+      "belong_customer_num": 400,
+      "e_customer_num": 79,
+      "e_use_pass_num": 70,
+      "e_use_pass_rate": 88.61
+    },
+    {
+      "department_name": "海沧客户服务部",
+      "customer_manager": "陈霞",
+      "belong_customer_num": 341,
+      "e_customer_num": 60,
+      "e_use_pass_num": 47,
+      "e_use_pass_rate": 78.33
+    },
+    {
+      "department_name": "海沧客户服务部",
+      "customer_manager": "谢智",
+      "belong_customer_num": 369,
+      "e_customer_num": 48,
+      "e_use_pass_num": 37,
+      "e_use_pass_rate": 77.08
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "叶娟娟",
+      "belong_customer_num": 567,
+      "e_customer_num": 64,
+      "e_use_pass_num": 63,
+      "e_use_pass_rate": 98.44
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "郭秀连",
+      "belong_customer_num": 539,
+      "e_customer_num": 72,
+      "e_use_pass_num": 61,
+      "e_use_pass_rate": 84.72
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "廖玉晶",
+      "belong_customer_num": 321,
+      "e_customer_num": 52,
+      "e_use_pass_num": 49,
+      "e_use_pass_rate": 94.23
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "陈丽珍",
+      "belong_customer_num": 431,
+      "e_customer_num": 45,
+      "e_use_pass_num": 42,
+      "e_use_pass_rate": 93.33
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "黄回春",
+      "belong_customer_num": 510,
+      "e_customer_num": 61,
+      "e_use_pass_num": 60,
+      "e_use_pass_rate": 98.36
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "林政旺",
+      "belong_customer_num": 469,
+      "e_customer_num": 48,
+      "e_use_pass_num": 44,
+      "e_use_pass_rate": 91.67
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "倪惠梅",
+      "belong_customer_num": 564,
+      "e_customer_num": 56,
+      "e_use_pass_num": 54,
+      "e_use_pass_rate": 96.43
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "陈海浪",
+      "belong_customer_num": 479,
+      "e_customer_num": 49,
+      "e_use_pass_num": 47,
+      "e_use_pass_rate": 95.92
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "方子铖",
+      "belong_customer_num": 543,
+      "e_customer_num": 54,
+      "e_use_pass_num": 47,
+      "e_use_pass_rate": 87.04
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "林文祺",
+      "belong_customer_num": 478,
+      "e_customer_num": 65,
+      "e_use_pass_num": 61,
+      "e_use_pass_rate": 93.85
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "林志想",
+      "belong_customer_num": 504,
+      "e_customer_num": 68,
+      "e_use_pass_num": 54,
+      "e_use_pass_rate": 79.41
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "陈丁巳",
+      "belong_customer_num": 510,
+      "e_customer_num": 66,
+      "e_use_pass_num": 60,
+      "e_use_pass_rate": 90.91
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "郑水阵",
+      "belong_customer_num": 440,
+      "e_customer_num": 52,
+      "e_use_pass_num": 46,
+      "e_use_pass_rate": 88.46
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "洪苏宁",
+      "belong_customer_num": 415,
+      "e_customer_num": 55,
+      "e_use_pass_num": 46,
+      "e_use_pass_rate": 83.64
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "叶聪毅",
+      "belong_customer_num": 502,
+      "e_customer_num": 46,
+      "e_use_pass_num": 42,
+      "e_use_pass_rate": 91.3
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "辛贵杉",
+      "belong_customer_num": 455,
+      "e_customer_num": 57,
+      "e_use_pass_num": 50,
+      "e_use_pass_rate": 87.72
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "陈珑",
+      "belong_customer_num": 472,
+      "e_customer_num": 59,
+      "e_use_pass_num": 56,
+      "e_use_pass_rate": 94.92
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "谢译辉",
+      "belong_customer_num": 527,
+      "e_customer_num": 50,
+      "e_use_pass_num": 47,
+      "e_use_pass_rate": 94
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "林蔚",
+      "belong_customer_num": 434,
+      "e_customer_num": 48,
+      "e_use_pass_num": 45,
+      "e_use_pass_rate": 93.75
+    }
+  ]
+}

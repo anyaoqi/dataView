@@ -1,0 +1,10 @@
+{
+  "code": "success",
+  "msg": "查询成功！",
+  "data": {
+    "amount": 11372881,
+    "percent": 100,
+    "activeCount": 16864,
+    "orderCount": 81549
+  }
+}

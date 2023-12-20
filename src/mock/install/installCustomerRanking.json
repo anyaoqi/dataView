@@ -1,0 +1,342 @@
+{
+  "code": "success",
+  "msg": "查询成功！",
+  "data": [
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "方春藤",
+      "belong_customer_num": 376,
+      "install_customer_num": 42
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "陈文龙",
+      "belong_customer_num": 359,
+      "install_customer_num": 44
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "刘昇",
+      "belong_customer_num": 360,
+      "install_customer_num": 60
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "姜贞",
+      "belong_customer_num": 338,
+      "install_customer_num": 27
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "许洪鹰",
+      "belong_customer_num": 362,
+      "install_customer_num": 42
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "张盈",
+      "belong_customer_num": 339,
+      "install_customer_num": 40
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "袁欢",
+      "belong_customer_num": 347,
+      "install_customer_num": 63
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "周志谦",
+      "belong_customer_num": 323,
+      "install_customer_num": 35
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "蔡奕新",
+      "belong_customer_num": 343,
+      "install_customer_num": 63
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "陈正循",
+      "belong_customer_num": 366,
+      "install_customer_num": 37
+    },
+    {
+      "department_name": "思明客户服务部",
+      "customer_manager": "王钧",
+      "belong_customer_num": 363,
+      "install_customer_num": 54
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "关锐",
+      "belong_customer_num": 408,
+      "install_customer_num": 60
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "林明",
+      "belong_customer_num": 335,
+      "install_customer_num": 46
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "邬晶晶",
+      "belong_customer_num": 390,
+      "install_customer_num": 50
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "肖秀春",
+      "belong_customer_num": 379,
+      "install_customer_num": 48
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "蔡绸绢",
+      "belong_customer_num": 448,
+      "install_customer_num": 54
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "吴斌",
+      "belong_customer_num": 432,
+      "install_customer_num": 47
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "陈善强",
+      "belong_customer_num": 423,
+      "install_customer_num": 48
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "侯志育",
+      "belong_customer_num": 431,
+      "install_customer_num": 40
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "纪君豪",
+      "belong_customer_num": 376,
+      "install_customer_num": 57
+    },
+    {
+      "department_name": "湖里客户服务部",
+      "customer_manager": "林海滨",
+      "belong_customer_num": 301,
+      "install_customer_num": 48
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "方立明",
+      "belong_customer_num": 480,
+      "install_customer_num": 55
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "黄哲伟",
+      "belong_customer_num": 475,
+      "install_customer_num": 71
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "陈攀",
+      "belong_customer_num": 463,
+      "install_customer_num": 72
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "朱超",
+      "belong_customer_num": 411,
+      "install_customer_num": 54
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "肖荣海",
+      "belong_customer_num": 467,
+      "install_customer_num": 76
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "张雅敏",
+      "belong_customer_num": 286,
+      "install_customer_num": 50
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "林堂鑫",
+      "belong_customer_num": 492,
+      "install_customer_num": 43
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "余鸿勃",
+      "belong_customer_num": 437,
+      "install_customer_num": 52
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "廖树龙",
+      "belong_customer_num": 472,
+      "install_customer_num": 53
+    },
+    {
+      "department_name": "集美客户服务部",
+      "customer_manager": "姚伟煌",
+      "belong_customer_num": 388,
+      "install_customer_num": 45
+    },
+    {
+      "department_name": "海沧客户服务部",
+      "customer_manager": "潘建行",
+      "belong_customer_num": 388,
+      "install_customer_num": 54
+    },
+    {
+      "department_name": "海沧客户服务部",
+      "customer_manager": "肖书欣",
+      "belong_customer_num": 422,
+      "install_customer_num": 96
+    },
+    {
+      "department_name": "海沧客户服务部",
+      "customer_manager": "徐勇辉",
+      "belong_customer_num": 400,
+      "install_customer_num": 42
+    },
+    {
+      "department_name": "海沧客户服务部",
+      "customer_manager": "龙伟超",
+      "belong_customer_num": 400,
+      "install_customer_num": 79
+    },
+    {
+      "department_name": "海沧客户服务部",
+      "customer_manager": "陈霞",
+      "belong_customer_num": 341,
+      "install_customer_num": 60
+    },
+    {
+      "department_name": "海沧客户服务部",
+      "customer_manager": "谢智",
+      "belong_customer_num": 369,
+      "install_customer_num": 48
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "叶娟娟",
+      "belong_customer_num": 567,
+      "install_customer_num": 64
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "郭秀连",
+      "belong_customer_num": 539,
+      "install_customer_num": 72
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "廖玉晶",
+      "belong_customer_num": 321,
+      "install_customer_num": 52
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "陈丽珍",
+      "belong_customer_num": 431,
+      "install_customer_num": 45
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "黄回春",
+      "belong_customer_num": 510,
+      "install_customer_num": 61
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "林政旺",
+      "belong_customer_num": 469,
+      "install_customer_num": 48
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "倪惠梅",
+      "belong_customer_num": 564,
+      "install_customer_num": 56
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "陈海浪",
+      "belong_customer_num": 479,
+      "install_customer_num": 49
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "方子铖",
+      "belong_customer_num": 543,
+      "install_customer_num": 54
+    },
+    {
+      "department_name": "同安客户服务部",
+      "customer_manager": "林文祺",
+      "belong_customer_num": 478,
+      "install_customer_num": 65
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "林志想",
+      "belong_customer_num": 504,
+      "install_customer_num": 68
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "陈丁巳",
+      "belong_customer_num": 510,
+      "install_customer_num": 66
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "郑水阵",
+      "belong_customer_num": 440,
+      "install_customer_num": 52
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "洪苏宁",
+      "belong_customer_num": 415,
+      "install_customer_num": 55
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "叶聪毅",
+      "belong_customer_num": 502,
+      "install_customer_num": 46
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "辛贵杉",
+      "belong_customer_num": 455,
+      "install_customer_num": 57
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "陈珑",
+      "belong_customer_num": 472,
+      "install_customer_num": 59
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "谢译辉",
+      "belong_customer_num": 527,
+      "install_customer_num": 50
+    },
+    {
+      "department_name": "翔安客户服务部",
+      "customer_manager": "林蔚",
+      "belong_customer_num": 434,
+      "install_customer_num": 48
+    }
+  ]
+}

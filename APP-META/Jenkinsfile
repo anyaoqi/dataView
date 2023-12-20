@@ -1,0 +1,33 @@
+def JOB_NAME = "${env.JOB_NAME}"
+def PRO_NAME = JOB_NAME.split('\\/')[0]
+def TAG_FIRST_NAME = "${env.BRANCH_NAME}".split('\\/')[1]
+// def IMAGE_URL='cr.registry.res.pri.fjyccloud.com'
+// def IMAGE_GROUP='fjyc_yxsy_acr_tp01'
+// def IMAGEUSERNAME='fjyc_yxsypadmin@1086221576661633'
+// def IMAGEPASSWD='FJyc2@prod!'
+def JAR_PACKAGE='app-mcs-analyse.jar'
+def auth='$(echo "fjyc_yxsy_admin:FJyc#2023" | base64)'
+def IMAGE_FROM = "${IMAGE_URL}/${IMAGE_GROUP}/${NGINX_IMAGE}"
+def packageName="${IMAGE_URL}/${IMAGE_GROUP}/${PRO_NAME}:${TAG_FIRST_NAME}-$BUILD_NUMBER"
+pipeline {
+    agent any
+    stages() {
+        stage('打包') {
+            steps {
+               echo "${packageName}"
+               sh "npm config set ${NPM_URL}"
+               sh "npm config set ${NPM_TOKEN}"
+               sh "npm install -verbose"
+               sh "npm run build"
+            }
+        }
+        stage('部署') {
+            steps {
+                sh "docker login --username=${IMAGEUSERNAME} --password=${IMAGEPASSWD}  ${IMAGE_URL}"
+                sh """ docker build -t ${packageName} --build-arg JAVA_OPTS="" --build-arg JAR_PACKAGE=${JAR_PACKAGE} --build-arg IMAGE_FROM=${IMAGE_FROM} -f `pwd`/APP-META/docker-config-std/Dockerfile ."""
+                sh "docker push ${packageName}"
+                sh "docker rmi  ${packageName}"
+            }
+        }
+    }
+}

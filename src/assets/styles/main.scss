@@ -1,0 +1,31 @@
+@import './normalize.scss';
+
+// 自定义弹框样式
+.custom-modal {
+  .ant-modal-content {
+    background: url('../images/modal-bg.png');
+    background-size: 100% 100%;
+    padding: 30px 40px;
+    .ant-modal-header {
+      background: transparent;
+      .ant-modal-title {
+        font-size: 18px;
+        color: #fff;
+        padding-left: 10px;
+      }
+    }
+    .ant-modal-close {
+      margin-right: 30px;
+      margin-top: 15px;
+      .ant-modal-close-x {
+        width: 24px;
+        height: 24px;
+        background: url('@/assets/images/close.png');
+        background-size: 100% 100%;
+        .anticon-close {
+          display: none;
+        }
+      }
+    }
+  }
+}

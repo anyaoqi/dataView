@@ -1,0 +1,606 @@
+{
+  "code": "success",
+  "msg": "查询成功！",
+  "data": [
+    {
+      "sort": 1,
+      "nickname": "微信用户7449",
+      "mobile": "18859105667",
+      "point": 15440
+    },
+    {
+      "sort": 2,
+      "nickname": "微信用户5969",
+      "mobile": "18959271182",
+      "point": 14760
+    },
+    {
+      "sort": 3,
+      "nickname": "微信用户3989",
+      "mobile": "15801877578",
+      "point": 13130
+    },
+    {
+      "sort": 4,
+      "nickname": "微信用户8024",
+      "mobile": "13959208131",
+      "point": 11790
+    },
+    {
+      "sort": 5,
+      "nickname": "微信用户8952",
+      "mobile": "13285977469",
+      "point": 11060
+    },
+    {
+      "sort": 6,
+      "nickname": "微信用户8814",
+      "mobile": "13395010236",
+      "point": 10900
+    },
+    {
+      "sort": 7,
+      "nickname": "微信用户5674",
+      "mobile": "15359291006",
+      "point": 10410
+    },
+    {
+      "sort": 8,
+      "nickname": "微信用户9199",
+      "mobile": "18350253010",
+      "point": 10370
+    },
+    {
+      "sort": 9,
+      "nickname": "微信用户4649",
+      "mobile": "13400772940",
+      "point": 10140
+    },
+    {
+      "sort": 10,
+      "nickname": "微信用户6874",
+      "mobile": "15960836033",
+      "point": 9770
+    },
+    {
+      "sort": 11,
+      "nickname": "微信用户1813",
+      "mobile": "13799259464",
+      "point": 9640
+    },
+    {
+      "sort": 12,
+      "nickname": "微信用户2239",
+      "mobile": "15941931567",
+      "point": 9230
+    },
+    {
+      "sort": 13,
+      "nickname": "微信用户3328",
+      "mobile": "18860048915",
+      "point": 9150
+    },
+    {
+      "sort": 14,
+      "nickname": "微信用户9718",
+      "mobile": "13859939957",
+      "point": 8760
+    },
+    {
+      "sort": 15,
+      "nickname": "微信用户4862",
+      "mobile": "13400754891",
+      "point": 8640
+    },
+    {
+      "sort": 16,
+      "nickname": "微信用户2308",
+      "mobile": "13960775391",
+      "point": 8530
+    },
+    {
+      "sort": 17,
+      "nickname": "微信用户7727",
+      "mobile": "18559025794",
+      "point": 8500
+    },
+    {
+      "sort": 18,
+      "nickname": "微信用户4739",
+      "mobile": "15392037649",
+      "point": 8490
+    },
+    {
+      "sort": 19,
+      "nickname": "微信用户8405",
+      "mobile": "18050062728",
+      "point": 8180
+    },
+    {
+      "sort": 20,
+      "nickname": "微信用户5678",
+      "mobile": "18259439338",
+      "point": 8050
+    },
+    {
+      "sort": 21,
+      "nickname": "微信用户1070",
+      "mobile": "18050105121",
+      "point": 8040
+    },
+    {
+      "sort": 22,
+      "nickname": "微信用户1201",
+      "mobile": "15905090951",
+      "point": 8030
+    },
+    {
+      "sort": 23,
+      "nickname": "微信用户7359",
+      "mobile": "15280270330",
+      "point": 7950
+    },
+    {
+      "sort": 24,
+      "nickname": "微信用户6723",
+      "mobile": "15359276819",
+      "point": 7870
+    },
+    {
+      "sort": 25,
+      "nickname": "微信用户9303",
+      "mobile": "15280223863",
+      "point": 7850
+    },
+    {
+      "sort": 26,
+      "nickname": "微信用户9211",
+      "mobile": "15860766602",
+      "point": 7840
+    },
+    {
+      "sort": 27,
+      "nickname": "微信用户4544",
+      "mobile": "18250707072",
+      "point": 7730
+    },
+    {
+      "sort": 28,
+      "nickname": "微信用户2542",
+      "mobile": "13559498789",
+      "point": 7720
+    },
+    {
+      "sort": 29,
+      "nickname": "微信用户2122",
+      "mobile": "13850068657",
+      "point": 7500
+    },
+    {
+      "sort": 30,
+      "nickname": "微信用户9977",
+      "mobile": "13720896342",
+      "point": 7460
+    },
+    {
+      "sort": 31,
+      "nickname": "微信用户8343",
+      "mobile": "15959231323",
+      "point": 7420
+    },
+    {
+      "sort": 32,
+      "nickname": "微信用户6843",
+      "mobile": "13365923403",
+      "point": 7400
+    },
+    {
+      "sort": 33,
+      "nickname": "微信用户1308",
+      "mobile": "15359320083",
+      "point": 7300
+    },
+    {
+      "sort": 34,
+      "nickname": "微信用户9202",
+      "mobile": "18950045137",
+      "point": 7260
+    },
+    {
+      "sort": 35,
+      "nickname": "微信用户9483",
+      "mobile": "13395054815",
+      "point": 7250
+    },
+    {
+      "sort": 36,
+      "nickname": "微信用户5291",
+      "mobile": "15394450952",
+      "point": 7210
+    },
+    {
+      "sort": 37,
+      "nickname": "微信用户2958",
+      "mobile": "13859938681",
+      "point": 7150
+    },
+    {
+      "sort": 38,
+      "nickname": "微信用户8482",
+      "mobile": "13859937408",
+      "point": 7110
+    },
+    {
+      "sort": 39,
+      "nickname": "微信用户1612",
+      "mobile": "18605089871",
+      "point": 7080
+    },
+    {
+      "sort": 40,
+      "nickname": "微信用户4434",
+      "mobile": "18054821999",
+      "point": 7070
+    },
+    {
+      "sort": 41,
+      "nickname": "微信用户1949",
+      "mobile": "13850026121",
+      "point": 7010
+    },
+    {
+      "sort": 42,
+      "nickname": "微信用户7288",
+      "mobile": "15860706570",
+      "point": 7000
+    },
+    {
+      "sort": 43,
+      "nickname": "微信用户9464",
+      "mobile": "18150398333",
+      "point": 6990
+    },
+    {
+      "sort": 44,
+      "nickname": "微信用户7438",
+      "mobile": "13328791985",
+      "point": 6960
+    },
+    {
+      "sort": 45,
+      "nickname": "微信用户2204",
+      "mobile": "18250758253",
+      "point": 6960
+    },
+    {
+      "sort": 46,
+      "nickname": "微信用户1612",
+      "mobile": "15710670433",
+      "point": 6930
+    },
+    {
+      "sort": 47,
+      "nickname": "微信用户2953",
+      "mobile": "18150403678",
+      "point": 6850
+    },
+    {
+      "sort": 48,
+      "nickname": "微信用户1482",
+      "mobile": "13950029132",
+      "point": 6800
+    },
+    {
+      "sort": 49,
+      "nickname": "微信用户2821",
+      "mobile": "18050117283",
+      "point": 6800
+    },
+    {
+      "sort": 50,
+      "nickname": "微信用户8510",
+      "mobile": "18060972997",
+      "point": 6790
+    },
+    {
+      "sort": 51,
+      "nickname": "微信用户4958",
+      "mobile": "15860759856",
+      "point": 6750
+    },
+    {
+      "sort": 52,
+      "nickname": "微信用户1961",
+      "mobile": "13950132928",
+      "point": 6740
+    },
+    {
+      "sort": 53,
+      "nickname": "微信用户7245",
+      "mobile": "18596789068",
+      "point": 6730
+    },
+    {
+      "sort": 54,
+      "nickname": "微信用户8073",
+      "mobile": "13400727102",
+      "point": 6720
+    },
+    {
+      "sort": 55,
+      "nickname": "微信用户8339",
+      "mobile": "13860155923",
+      "point": 6720
+    },
+    {
+      "sort": 56,
+      "nickname": "微信用户8345",
+      "mobile": "18850013538",
+      "point": 6630
+    },
+    {
+      "sort": 57,
+      "nickname": "微信用户4251",
+      "mobile": "18950029055",
+      "point": 6630
+    },
+    {
+      "sort": 58,
+      "nickname": "微信用户5934",
+      "mobile": "18020712292",
+      "point": 6620
+    },
+    {
+      "sort": 59,
+      "nickname": "微信用户6642",
+      "mobile": "15980891575",
+      "point": 6610
+    },
+    {
+      "sort": 60,
+      "nickname": "微信用户2707",
+      "mobile": "17359876257",
+      "point": 6570
+    },
+    {
+      "sort": 61,
+      "nickname": "微信用户8031",
+      "mobile": "15280231922",
+      "point": 6550
+    },
+    {
+      "sort": 62,
+      "nickname": "微信用户7818",
+      "mobile": "15080565788",
+      "point": 6550
+    },
+    {
+      "sort": 63,
+      "nickname": "微信用户3249",
+      "mobile": "18149513319",
+      "point": 6540
+    },
+    {
+      "sort": 64,
+      "nickname": "微信用户4276",
+      "mobile": "13559240191",
+      "point": 6540
+    },
+    {
+      "sort": 65,
+      "nickname": "微信用户6668",
+      "mobile": "15359020616",
+      "point": 6520
+    },
+    {
+      "sort": 66,
+      "nickname": "微信用户1405",
+      "mobile": "15980798569",
+      "point": 6520
+    },
+    {
+      "sort": 67,
+      "nickname": "微信用户1581",
+      "mobile": "13696997978",
+      "point": 6510
+    },
+    {
+      "sort": 68,
+      "nickname": "微信用户3450",
+      "mobile": "18046308084",
+      "point": 6500
+    },
+    {
+      "sort": 69,
+      "nickname": "微信用户4614",
+      "mobile": "19535100571",
+      "point": 6500
+    },
+    {
+      "sort": 70,
+      "nickname": "微信用户6627",
+      "mobile": "15159252683",
+      "point": 6500
+    },
+    {
+      "sort": 71,
+      "nickname": "微信用户9953",
+      "mobile": "13656000212",
+      "point": 6500
+    },
+    {
+      "sort": 72,
+      "nickname": "微信用户9008",
+      "mobile": "17859624558",
+      "point": 6490
+    },
+    {
+      "sort": 73,
+      "nickname": "微信用户3545",
+      "mobile": "13507597220",
+      "point": 6470
+    },
+    {
+      "sort": 74,
+      "nickname": "微信用户7132",
+      "mobile": "15985895416",
+      "point": 6470
+    },
+    {
+      "sort": 75,
+      "nickname": "微信用户5215",
+      "mobile": "13656001317",
+      "point": 6470
+    },
+    {
+      "sort": 76,
+      "nickname": "微信用户7648",
+      "mobile": "18050117282",
+      "point": 6450
+    },
+    {
+      "sort": 77,
+      "nickname": "微信用户2597",
+      "mobile": "15606006245",
+      "point": 6440
+    },
+    {
+      "sort": 78,
+      "nickname": "微信用户7797",
+      "mobile": "15359260508",
+      "point": 6440
+    },
+    {
+      "sort": 79,
+      "nickname": "微信用户9876",
+      "mobile": "18250779679",
+      "point": 6430
+    },
+    {
+      "sort": 80,
+      "nickname": "微信用户9554",
+      "mobile": "18750929760",
+      "point": 6420
+    },
+    {
+      "sort": 81,
+      "nickname": "微信用户2295",
+      "mobile": "15985889026",
+      "point": 6420
+    },
+    {
+      "sort": 82,
+      "nickname": "微信用户4690",
+      "mobile": "18850354010",
+      "point": 6410
+    },
+    {
+      "sort": 83,
+      "nickname": "微信用户7796",
+      "mobile": "13559223181",
+      "point": 6400
+    },
+    {
+      "sort": 84,
+      "nickname": "微信用户2130",
+      "mobile": "18060957967",
+      "point": 6400
+    },
+    {
+      "sort": 85,
+      "nickname": "微信用户3250",
+      "mobile": "13696915581",
+      "point": 6400
+    },
+    {
+      "sort": 86,
+      "nickname": "微信用户8503",
+      "mobile": "15960230576",
+      "point": 6400
+    },
+    {
+      "sort": 87,
+      "nickname": "微信用户7139",
+      "mobile": "18965127338",
+      "point": 6400
+    },
+    {
+      "sort": 88,
+      "nickname": "微信用户9595",
+      "mobile": "18050026688",
+      "point": 6390
+    },
+    {
+      "sort": 89,
+      "nickname": "微信用户5229",
+      "mobile": "18050096888",
+      "point": 6370
+    },
+    {
+      "sort": 90,
+      "nickname": "微信用户3582",
+      "mobile": "17750589582",
+      "point": 6360
+    },
+    {
+      "sort": 91,
+      "nickname": "微信用户9293",
+      "mobile": "15959208367",
+      "point": 6340
+    },
+    {
+      "sort": 92,
+      "nickname": "微信用户9869",
+      "mobile": "13850075255",
+      "point": 6300
+    },
+    {
+      "sort": 93,
+      "nickname": "微信用户6567",
+      "mobile": "13215025777",
+      "point": 6300
+    },
+    {
+      "sort": 94,
+      "nickname": "微信用户9739",
+      "mobile": "15711568456",
+      "point": 6300
+    },
+    {
+      "sort": 95,
+      "nickname": "微信用户8404",
+      "mobile": "17605053439",
+      "point": 6300
+    },
+    {
+      "sort": 96,
+      "nickname": "微信用户5504",
+      "mobile": "18059844725",
+      "point": 6300
+    },
+    {
+      "sort": 97,
+      "nickname": "微信用户9937",
+      "mobile": "18965151700",
+      "point": 6300
+    },
+    {
+      "sort": 98,
+      "nickname": "微信用户8592",
+      "mobile": "13194098083",
+      "point": 6290
+    },
+    {
+      "sort": 99,
+      "nickname": "微信用户1242",
+      "mobile": "13656009377",
+      "point": 6280
+    },
+    {
+      "sort": 100,
+      "nickname": "微信用户7284",
+      "mobile": "15160041617",
+      "point": 6260
+    }
+  ]
+}

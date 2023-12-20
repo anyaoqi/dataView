@@ -1,0 +1,3374 @@
+{
+  "code": "success",
+  "msg": "查询成功！",
+  "data": [
+    {
+      "sort": 1,
+      "license_code": 350203100045,
+      "cust_name": "厦门市思明区鑫联谊便利店",
+      "department": "思明客户服务部",
+      "score": 3,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 2,
+      "license_code": 350203100135,
+      "cust_name": "厦门市思明区秋容食杂店",
+      "department": "思明客户服务部",
+      "score": 3.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 3,
+      "license_code": 350203100258,
+      "cust_name": "厦门市思明区观林食杂店",
+      "department": "思明客户服务部",
+      "score": 1,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 4,
+      "license_code": 350203100327,
+      "cust_name": "厦门市思明区好邻居食杂店",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 5,
+      "license_code": 350203100451,
+      "cust_name": "厦门市思明区倍胜客食杂店",
+      "department": "思明客户服务部",
+      "score": 1.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 6,
+      "license_code": 350203100512,
+      "cust_name": "厦门市思明区豪万盛食品便利店",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 7,
+      "license_code": 350203100545,
+      "cust_name": "厦门市思明区和能粮油食杂店",
+      "department": "思明客户服务部",
+      "score": 2,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 8,
+      "license_code": 350203100655,
+      "cust_name": "厦门市思明区陈文龙日用品商店",
+      "department": "思明客户服务部",
+      "score": 1.5,
+      "reason": "会员拓展未达标"
+    },
+    {
+      "sort": 9,
+      "license_code": 350203100688,
+      "cust_name": "厦门市思明区老黑粮油店",
+      "department": "思明客户服务部",
+      "score": 3.25,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 10,
+      "license_code": 350203100689,
+      "cust_name": "厦门市思明区鑫兴源便利店",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 11,
+      "license_code": 350203100771,
+      "cust_name": "厦门市思明区优优食杂店",
+      "department": "思明客户服务部",
+      "score": 2,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 12,
+      "license_code": 350203101224,
+      "cust_name": "厦门市思明区源全食杂店",
+      "department": "思明客户服务部",
+      "score": 1.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 13,
+      "license_code": 350203101491,
+      "cust_name": "厦门市思明区林鑫达食杂店",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 14,
+      "license_code": 350203101693,
+      "cust_name": "厦门市思明区嘉云食杂店",
+      "department": "思明客户服务部",
+      "score": 3.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 15,
+      "license_code": 350203102065,
+      "cust_name": "嘉联商场",
+      "department": "思明客户服务部",
+      "score": 1.5,
+      "reason": "会员拓展未达标"
+    },
+    {
+      "sort": 16,
+      "license_code": 350203106188,
+      "cust_name": "厦门市思明区侯梅祥食杂店",
+      "department": "思明客户服务部",
+      "score": 0.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 17,
+      "license_code": 350203106272,
+      "cust_name": "厦门市思明区魏荣秀食杂店",
+      "department": "思明客户服务部",
+      "score": 3.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 18,
+      "license_code": 350203106391,
+      "cust_name": "厦门市思明区郭碧寿粮油店",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 19,
+      "license_code": 350203106402,
+      "cust_name": "厦门市思明区张宏萍食杂店",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 20,
+      "license_code": 350203106529,
+      "cust_name": "厦门市思明区食饕之选食品店",
+      "department": "思明客户服务部",
+      "score": 1.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 21,
+      "license_code": 350203106782,
+      "cust_name": "厦门市思明区玉哲百货店",
+      "department": "思明客户服务部",
+      "score": 3,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 22,
+      "license_code": 350203106849,
+      "cust_name": "厦门市思明区小佳食品便利店",
+      "department": "思明客户服务部",
+      "score": 2.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 23,
+      "license_code": 350203106851,
+      "cust_name": "厦门市思明区庆玲日用百货经营部",
+      "department": "思明客户服务部",
+      "score": 2,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 24,
+      "license_code": 350203106876,
+      "cust_name": "厦门市思明区观阳食杂店",
+      "department": "思明客户服务部",
+      "score": 1,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 25,
+      "license_code": 350203107139,
+      "cust_name": "厦门市思明区海洋星便利店",
+      "department": "思明客户服务部",
+      "score": 0.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 26,
+      "license_code": 350203107333,
+      "cust_name": "厦门市思明区秀熔食杂店",
+      "department": "思明客户服务部",
+      "score": 3,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 27,
+      "license_code": 350203107363,
+      "cust_name": "厦门市思明区煌与达食杂店",
+      "department": "思明客户服务部",
+      "score": 2,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 28,
+      "license_code": 350203107542,
+      "cust_name": "厦门市思明区叶小宝食品店",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 29,
+      "license_code": 350203107646,
+      "cust_name": "厦门市思明区苏华重食杂店",
+      "department": "思明客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 30,
+      "license_code": 350203107725,
+      "cust_name": "厦门市思明区尚良便利店",
+      "department": "思明客户服务部",
+      "score": 2.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 31,
+      "license_code": 350203107887,
+      "cust_name": "厦门市思明区爱佳惠便利店",
+      "department": "思明客户服务部",
+      "score": 0.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 32,
+      "license_code": 350203107893,
+      "cust_name": "厦门市思明区游翠云食品店",
+      "department": "思明客户服务部",
+      "score": 4,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 33,
+      "license_code": 350203107894,
+      "cust_name": "厦门市思明区陈国彬食品店",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 34,
+      "license_code": 350203108002,
+      "cust_name": "厦门市思明区宾家佳便利店",
+      "department": "思明客户服务部",
+      "score": 1.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 35,
+      "license_code": 350203108021,
+      "cust_name": "厦门市思明区林周和食品店",
+      "department": "思明客户服务部",
+      "score": 0.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 36,
+      "license_code": 350203108117,
+      "cust_name": "厦门市思明区双昱永隆达便利店",
+      "department": "思明客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 37,
+      "license_code": 350203108169,
+      "cust_name": "厦门市思明区潘惠珠食品店",
+      "department": "思明客户服务部",
+      "score": 2,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 38,
+      "license_code": 350203108246,
+      "cust_name": "厦门市思明区尚香茶叶店",
+      "department": "思明客户服务部",
+      "score": 3,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 39,
+      "license_code": 350203108363,
+      "cust_name": "厦门市思明区李坤桢便利店",
+      "department": "思明客户服务部",
+      "score": 3,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 40,
+      "license_code": 350203108416,
+      "cust_name": "厦门市思明区钟小斌食杂店",
+      "department": "思明客户服务部",
+      "score": 4,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 41,
+      "license_code": 350203108554,
+      "cust_name": "厦门市思明区久久浩林食品店",
+      "department": "思明客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 42,
+      "license_code": 350203108684,
+      "cust_name": "厦门市思明区辰和明便利店",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 43,
+      "license_code": 350203108845,
+      "cust_name": "厦门市思明区鸣雷飞食品便利店",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 44,
+      "license_code": 350203108861,
+      "cust_name": "厦门市思明区罗贤祯食品店",
+      "department": "思明客户服务部",
+      "score": 3,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 45,
+      "license_code": 350203108931,
+      "cust_name": "厦门市思明区利源食杂店",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 46,
+      "license_code": 350203109027,
+      "cust_name": "厦门市思明区山星杰便利店",
+      "department": "思明客户服务部",
+      "score": 2.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 47,
+      "license_code": 350203109055,
+      "cust_name": "厦门市思明区王汉宾食品店",
+      "department": "思明客户服务部",
+      "score": 1.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 48,
+      "license_code": 350203109178,
+      "cust_name": "厦门市思明区郭伟彬食品店",
+      "department": "思明客户服务部",
+      "score": 2.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 49,
+      "license_code": 350203109237,
+      "cust_name": "厦门市思明区全永红食品便利店",
+      "department": "思明客户服务部",
+      "score": 2,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 50,
+      "license_code": 350203109399,
+      "cust_name": "厦门市思明区广运运便利店",
+      "department": "思明客户服务部",
+      "score": 1,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 51,
+      "license_code": 350203109684,
+      "cust_name": "厦门市思明区郑美琳食品店",
+      "department": "思明客户服务部",
+      "score": 1.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 52,
+      "license_code": 350203109726,
+      "cust_name": "厦门市思明区友益佳便利店",
+      "department": "思明客户服务部",
+      "score": 1.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 53,
+      "license_code": 350203109834,
+      "cust_name": "厦门市思明区鑫尔德粮油店",
+      "department": "思明客户服务部",
+      "score": 2.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 54,
+      "license_code": 350203109841,
+      "cust_name": "厦门市思明区优佳宜便利店",
+      "department": "思明客户服务部",
+      "score": 3,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 55,
+      "license_code": 350203109887,
+      "cust_name": "厦门市思明区邱燕青食品店",
+      "department": "思明客户服务部",
+      "score": 2,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 56,
+      "license_code": 350203109961,
+      "cust_name": "厦门市思明区水果立方饮品店",
+      "department": "思明客户服务部",
+      "score": 3.25,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 57,
+      "license_code": 350203110145,
+      "cust_name": "厦门市思明区郭建良烟酒店",
+      "department": "思明客户服务部",
+      "score": 3.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 58,
+      "license_code": 350203110184,
+      "cust_name": "厦门市思明区九文肖食品店",
+      "department": "思明客户服务部",
+      "score": 1,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 59,
+      "license_code": 350203110304,
+      "cust_name": "厦门市思明区凌伙荣便利店",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 60,
+      "license_code": 350203110383,
+      "cust_name": "厦门市思明区白石岩茶业店",
+      "department": "思明客户服务部",
+      "score": 1.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 61,
+      "license_code": 350203110548,
+      "cust_name": "厦门市思明区社煜烟酒商行",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 62,
+      "license_code": 350203110559,
+      "cust_name": "厦门市思明区兰聚轩茶叶店",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 63,
+      "license_code": 350203110670,
+      "cust_name": "厦门市思明区嘉禾林茶叶店",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 64,
+      "license_code": 350203110748,
+      "cust_name": "厦门市思明区苏元昌食杂店",
+      "department": "思明客户服务部",
+      "score": 1.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 65,
+      "license_code": 350203110918,
+      "cust_name": "厦门市思明区张玉良的土特产经营部",
+      "department": "思明客户服务部",
+      "score": 4,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 66,
+      "license_code": 350203111002,
+      "cust_name": "厦门市思明区陈东艳便利店",
+      "department": "思明客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 67,
+      "license_code": 350203111031,
+      "cust_name": "厦门市思明区芯记烟酒经营部",
+      "department": "思明客户服务部",
+      "score": 3,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 68,
+      "license_code": 350203111053,
+      "cust_name": "厦门市思明区陈美玉烟酒商行",
+      "department": "思明客户服务部",
+      "score": 1.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 69,
+      "license_code": 350203111116,
+      "cust_name": "厦门市思明区闽韵香酒业经营部",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 70,
+      "license_code": 350203111133,
+      "cust_name": "厦门市思明区张心水便利店",
+      "department": "思明客户服务部",
+      "score": 2,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 71,
+      "license_code": 350203111151,
+      "cust_name": "厦门市思明区君华罗食品店",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 72,
+      "license_code": 350203111219,
+      "cust_name": "厦门市思明区绛罗衿茶叶店",
+      "department": "思明客户服务部",
+      "score": 1,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 73,
+      "license_code": 350203111267,
+      "cust_name": "厦门市思明区御环烟酒店",
+      "department": "思明客户服务部",
+      "score": 3.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 74,
+      "license_code": 350203111284,
+      "cust_name": "厦门市思明区洋晨洋食品店",
+      "department": "思明客户服务部",
+      "score": 2,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 75,
+      "license_code": 350203111352,
+      "cust_name": "厦门市思明区文彬柯食品店",
+      "department": "思明客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 76,
+      "license_code": 350203111366,
+      "cust_name": "厦门市思明区万利维鹏便利店",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 77,
+      "license_code": 350203111431,
+      "cust_name": "厦门市思明区叶小明之食品店",
+      "department": "思明客户服务部",
+      "score": 4,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 78,
+      "license_code": 350203111445,
+      "cust_name": "厦门市思明区木青林染便利店",
+      "department": "思明客户服务部",
+      "score": 2,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 79,
+      "license_code": 350203111484,
+      "cust_name": "厦门市思明区好与德餐饮店",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 80,
+      "license_code": 350203111593,
+      "cust_name": "厦门市思明区志利食杂店",
+      "department": "思明客户服务部",
+      "score": 1,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 81,
+      "license_code": 350203111663,
+      "cust_name": "厦门市思明区朵朵晨曦食品店",
+      "department": "思明客户服务部",
+      "score": 2.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 82,
+      "license_code": 350203111692,
+      "cust_name": "厦门市思明区把酒赋诗酒类经营部",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 83,
+      "license_code": 350203111698,
+      "cust_name": "厦门市思明区方旭鹏食品店",
+      "department": "思明客户服务部",
+      "score": 2.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 84,
+      "license_code": 350203111722,
+      "cust_name": "厦门市思明区惟永佳便利店",
+      "department": "思明客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 85,
+      "license_code": 350203111733,
+      "cust_name": "厦门市思明区品逸顺聚食品店",
+      "department": "思明客户服务部",
+      "score": 3.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 86,
+      "license_code": 350203111746,
+      "cust_name": "厦门市思明区金福春茶叶店",
+      "department": "思明客户服务部",
+      "score": 1.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 87,
+      "license_code": 350203111769,
+      "cust_name": "厦门市思明区德兴记便利店",
+      "department": "思明客户服务部",
+      "score": 2.25,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 88,
+      "license_code": 350203111843,
+      "cust_name": "厦门市思明区王华伟茶叶店",
+      "department": "思明客户服务部",
+      "score": 3,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 89,
+      "license_code": 350203111844,
+      "cust_name": "厦门市思明区秀华食品店",
+      "department": "思明客户服务部",
+      "score": 4,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 90,
+      "license_code": 350203111858,
+      "cust_name": "厦门市思明区苏艳玲便利店",
+      "department": "思明客户服务部",
+      "score": 2,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 91,
+      "license_code": 350203111859,
+      "cust_name": "厦门市思明区桹业福茶茶叶店",
+      "department": "思明客户服务部",
+      "score": 1,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 92,
+      "license_code": 350203111947,
+      "cust_name": "厦门市思明区林羡食品店",
+      "department": "思明客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 93,
+      "license_code": 350203111965,
+      "cust_name": "厦门市思明区林荣标的餐厅",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 94,
+      "license_code": 350203112003,
+      "cust_name": "厦门市思明区张进文食品店",
+      "department": "思明客户服务部",
+      "score": 2,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 95,
+      "license_code": 350203112007,
+      "cust_name": "厦门市思明区建春兴旺便利店",
+      "department": "思明客户服务部",
+      "score": 0.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 96,
+      "license_code": 350203112014,
+      "cust_name": "厦门市思明区王淑婷茶叶店",
+      "department": "思明客户服务部",
+      "score": 3,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 97,
+      "license_code": 350203112173,
+      "cust_name": "厦门市思明区相约见福食品店",
+      "department": "思明客户服务部",
+      "score": 2.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 98,
+      "license_code": 350203112184,
+      "cust_name": "厦门市思明区隆兴隆烟酒经营部",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 99,
+      "license_code": 350203112217,
+      "cust_name": "厦门市思明区郭港跃食品店",
+      "department": "思明客户服务部",
+      "score": 2.75,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 100,
+      "license_code": 350203112226,
+      "cust_name": "厦门市思明区祥源宇便利店",
+      "department": "思明客户服务部",
+      "score": 2,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 101,
+      "license_code": 350203112252,
+      "cust_name": "厦门市思明区诚奉醇酒行",
+      "department": "思明客户服务部",
+      "score": 2,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 102,
+      "license_code": 350203112308,
+      "cust_name": "厦门市思明区熹豆仔食品店",
+      "department": "思明客户服务部",
+      "score": 1,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 103,
+      "license_code": 350203112347,
+      "cust_name": "厦门市思明区鸿海人生烟酒商行",
+      "department": "思明客户服务部",
+      "score": 3.75,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 104,
+      "license_code": 350203112377,
+      "cust_name": "厦门市思明区海丝兴胜便利店",
+      "department": "思明客户服务部",
+      "score": 1.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 105,
+      "license_code": 350203200044,
+      "cust_name": "厦门旺嘉盛商贸有限公司",
+      "department": "思明客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 106,
+      "license_code": 350203201173,
+      "cust_name": "厦门香名茶业有限公司",
+      "department": "思明客户服务部",
+      "score": 3.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 107,
+      "license_code": 350203201189,
+      "cust_name": "厦门赞鼎商贸有限公司",
+      "department": "思明客户服务部",
+      "score": 1,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 108,
+      "license_code": 350203201537,
+      "cust_name": "厦门贝卓商贸有限公司",
+      "department": "思明客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 109,
+      "license_code": 350203208743,
+      "cust_name": "谦阔（厦门）实业有限公司",
+      "department": "思明客户服务部",
+      "score": 4,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 110,
+      "license_code": 350203208935,
+      "cust_name": "恒自然（厦门）贸易有限公司",
+      "department": "思明客户服务部",
+      "score": 1.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 111,
+      "license_code": 350203209376,
+      "cust_name": "厦门品客道商贸有限公司",
+      "department": "思明客户服务部",
+      "score": 3.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 112,
+      "license_code": 350203209788,
+      "cust_name": "厦门茶香怡商务服务有限公司",
+      "department": "思明客户服务部",
+      "score": 1,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 113,
+      "license_code": 350203209831,
+      "cust_name": "厦门中途之家创业服务有限公司",
+      "department": "思明客户服务部",
+      "score": 2.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 114,
+      "license_code": 350203209946,
+      "cust_name": "厦门增达隆贸易有限公司",
+      "department": "思明客户服务部",
+      "score": 1,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 115,
+      "license_code": 350203210741,
+      "cust_name": "厦门临淼商贸有限公司",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 116,
+      "license_code": 350203210775,
+      "cust_name": "厦门品酒道贸易有限公司",
+      "department": "思明客户服务部",
+      "score": 1,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 117,
+      "license_code": 350203210787,
+      "cust_name": "厦门丰惠通贸易有限公司",
+      "department": "思明客户服务部",
+      "score": 2.75,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 118,
+      "license_code": 350203211083,
+      "cust_name": "厦门燕芝歌贸易有限公司",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 119,
+      "license_code": 350203211264,
+      "cust_name": "厦门酒禾喜商贸有限公司",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 120,
+      "license_code": 350203211299,
+      "cust_name": "厦门甄之选贸易有限公司",
+      "department": "思明客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 121,
+      "license_code": 350203211541,
+      "cust_name": "厦门鸿都御韵茶叶有限公司",
+      "department": "思明客户服务部",
+      "score": 3.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 122,
+      "license_code": 350203211604,
+      "cust_name": "厦门骏宏商业管理有限公司",
+      "department": "思明客户服务部",
+      "score": 3.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 123,
+      "license_code": 350203211617,
+      "cust_name": "厦门宏屹源商贸有限公司",
+      "department": "思明客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 124,
+      "license_code": 350203212403,
+      "cust_name": "厦门宏球贸易有限公司",
+      "department": "思明客户服务部",
+      "score": 3.25,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 125,
+      "license_code": 350205100293,
+      "cust_name": "厦门市海沧区翠霞食杂店",
+      "department": "海沧客户服务部",
+      "score": 3.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 126,
+      "license_code": 350205100591,
+      "cust_name": "厦门市海沧区魏厦莲超市",
+      "department": "海沧客户服务部",
+      "score": 1,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 127,
+      "license_code": 350205100682,
+      "cust_name": "厦门市海沧区巨峰超市",
+      "department": "海沧客户服务部",
+      "score": 2.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 128,
+      "license_code": 350205100789,
+      "cust_name": "厦门市海沧区鑫佳加惠食杂店",
+      "department": "海沧客户服务部",
+      "score": 0.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 129,
+      "license_code": 350205102182,
+      "cust_name": "厦门市海沧区建美乐食杂店",
+      "department": "海沧客户服务部",
+      "score": 0.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 130,
+      "license_code": 350205102414,
+      "cust_name": "厦门市海沧区珅林食杂店",
+      "department": "海沧客户服务部",
+      "score": 3,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 131,
+      "license_code": 350205102415,
+      "cust_name": "厦门市海沧区福盖峰便利店",
+      "department": "海沧客户服务部",
+      "score": 2.25,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 132,
+      "license_code": 350205102450,
+      "cust_name": "厦门市海沧区燕莲蔬菜店",
+      "department": "海沧客户服务部",
+      "score": 1.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 133,
+      "license_code": 350205102579,
+      "cust_name": "厦门市海沧区黄建潘食杂店",
+      "department": "海沧客户服务部",
+      "score": 3,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 134,
+      "license_code": 350205102642,
+      "cust_name": "厦门市海沧区永相来食杂店",
+      "department": "海沧客户服务部",
+      "score": 1.75,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 135,
+      "license_code": 350205102881,
+      "cust_name": "厦门市海沧区哲伟食杂店",
+      "department": "海沧客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 136,
+      "license_code": 350205102883,
+      "cust_name": "厦门市海沧区富兴敏食杂店",
+      "department": "海沧客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 137,
+      "license_code": 350205103168,
+      "cust_name": "厦门市海沧区宝粥糕饼店",
+      "department": "海沧客户服务部",
+      "score": 1.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 138,
+      "license_code": 350205103334,
+      "cust_name": "厦门市海沧区江志雄食杂店",
+      "department": "海沧客户服务部",
+      "score": 1.75,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 139,
+      "license_code": 350205103386,
+      "cust_name": "厦门市海沧区红大福便利店",
+      "department": "海沧客户服务部",
+      "score": 3.25,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 140,
+      "license_code": 350205103531,
+      "cust_name": "厦门市海沧区兴橙隆便利店",
+      "department": "海沧客户服务部",
+      "score": 0.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 141,
+      "license_code": 350205103649,
+      "cust_name": "厦门市海沧区侯德桐便利店",
+      "department": "海沧客户服务部",
+      "score": 1.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 142,
+      "license_code": 350205103709,
+      "cust_name": "厦门市海沧区乐购岛便利店",
+      "department": "海沧客户服务部",
+      "score": 2,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 143,
+      "license_code": 350205103810,
+      "cust_name": "永峰自选超市（新垵北片）",
+      "department": "海沧客户服务部",
+      "score": 2,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 144,
+      "license_code": 350205103868,
+      "cust_name": "厦门市海沧区鸿兄弟便利店",
+      "department": "海沧客户服务部",
+      "score": 1.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 145,
+      "license_code": 350205103879,
+      "cust_name": "厦门市海沧区情真日杂店",
+      "department": "海沧客户服务部",
+      "score": 0.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 146,
+      "license_code": 350205104077,
+      "cust_name": "厦门市海沧区美乐旺便超市",
+      "department": "海沧客户服务部",
+      "score": 1.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 147,
+      "license_code": 350205104173,
+      "cust_name": "厦门市海沧区景韵茗茶店",
+      "department": "海沧客户服务部",
+      "score": 4,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 148,
+      "license_code": 350205104186,
+      "cust_name": "厦门市海沧区廖大平便利店",
+      "department": "海沧客户服务部",
+      "score": 3.75,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 149,
+      "license_code": 350205104235,
+      "cust_name": "厦门市海沧区金久裕食品店",
+      "department": "海沧客户服务部",
+      "score": 3.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 150,
+      "license_code": 350205104367,
+      "cust_name": "厦门市海沧区叶永安便利店",
+      "department": "海沧客户服务部",
+      "score": 3.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 151,
+      "license_code": 350205104419,
+      "cust_name": "厦门市海沧区领悟食尚食杂店",
+      "department": "海沧客户服务部",
+      "score": 2,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 152,
+      "license_code": 350205104542,
+      "cust_name": "厦门市海沧区凯莉惠美食杂店",
+      "department": "海沧客户服务部",
+      "score": 2,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 153,
+      "license_code": 350205104713,
+      "cust_name": "厦门市海沧区鑫美购便利店",
+      "department": "海沧客户服务部",
+      "score": 0.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 154,
+      "license_code": 350205104903,
+      "cust_name": "厦门市海沧区美文家酒业经营部",
+      "department": "海沧客户服务部",
+      "score": 1.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 155,
+      "license_code": 350205104935,
+      "cust_name": "厦门市海沧区张皓程便利店",
+      "department": "海沧客户服务部",
+      "score": 0.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 156,
+      "license_code": 350205105043,
+      "cust_name": "厦门市海沧区中天月食杂店",
+      "department": "海沧客户服务部",
+      "score": 1,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 157,
+      "license_code": 350205105055,
+      "cust_name": "厦门市海沧区鹭港煌城烟酒经营部",
+      "department": "海沧客户服务部",
+      "score": 1.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 158,
+      "license_code": 350205105100,
+      "cust_name": "厦门市海沧区苏氏美烟酒商行",
+      "department": "海沧客户服务部",
+      "score": 3,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 159,
+      "license_code": 350205105177,
+      "cust_name": "厦门市海沧区邻里邻里便利店",
+      "department": "海沧客户服务部",
+      "score": 1.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 160,
+      "license_code": 350205105200,
+      "cust_name": "厦门市海沧区银宏达便利店",
+      "department": "海沧客户服务部",
+      "score": 0.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 161,
+      "license_code": 350205105201,
+      "cust_name": "厦门市海沧区洪育生烟酒商行",
+      "department": "海沧客户服务部",
+      "score": 1.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 162,
+      "license_code": 350205105226,
+      "cust_name": "厦门市海沧区顺顺和发便利店",
+      "department": "海沧客户服务部",
+      "score": 2.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 163,
+      "license_code": 350205105242,
+      "cust_name": "厦门市海沧区鑫鼎盛佳食杂店",
+      "department": "海沧客户服务部",
+      "score": 3,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 164,
+      "license_code": 350205105300,
+      "cust_name": "厦门市海沧区碧云堂便利店",
+      "department": "海沧客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 165,
+      "license_code": 350205105301,
+      "cust_name": "厦门市海沧区黄梦妮食杂店",
+      "department": "海沧客户服务部",
+      "score": 1.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 166,
+      "license_code": 350205105370,
+      "cust_name": "厦门市海沧区福燕贝多便利店",
+      "department": "海沧客户服务部",
+      "score": 3,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 167,
+      "license_code": 350205105371,
+      "cust_name": "厦门市海沧区刘秀凤生鲜店",
+      "department": "海沧客户服务部",
+      "score": 1.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 168,
+      "license_code": 350205105415,
+      "cust_name": "厦门市海沧区百佳佳美便利店",
+      "department": "海沧客户服务部",
+      "score": 1.75,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 169,
+      "license_code": 350205105419,
+      "cust_name": "厦门市海沧区甜在思源便利店",
+      "department": "海沧客户服务部",
+      "score": 2.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 170,
+      "license_code": 350205105453,
+      "cust_name": "厦门市海沧区皓惠品烟酒茶经营部",
+      "department": "海沧客户服务部",
+      "score": 0.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 171,
+      "license_code": 350205105620,
+      "cust_name": "厦门市海沧区小篮子便利店",
+      "department": "海沧客户服务部",
+      "score": 2.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 172,
+      "license_code": 350205105627,
+      "cust_name": "厦门市海沧区松林食杂店",
+      "department": "海沧客户服务部",
+      "score": 2.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 173,
+      "license_code": 350205105678,
+      "cust_name": "厦门市海沧区包海燕便利店",
+      "department": "海沧客户服务部",
+      "score": 0.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 174,
+      "license_code": 350205105754,
+      "cust_name": "厦门市海沧区百汇佳诚便利店",
+      "department": "海沧客户服务部",
+      "score": 3,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 175,
+      "license_code": 350205105789,
+      "cust_name": "厦门市海沧区江珅龙食杂店",
+      "department": "海沧客户服务部",
+      "score": 3,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 176,
+      "license_code": 350205105813,
+      "cust_name": "厦门市海沧区汇格云食品经营部",
+      "department": "海沧客户服务部",
+      "score": 3,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 177,
+      "license_code": 350205105844,
+      "cust_name": "厦门市海沧区兴聚诚烟酒茶商行",
+      "department": "海沧客户服务部",
+      "score": 1.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 178,
+      "license_code": 350205105868,
+      "cust_name": "厦门市海沧区沧孚商茶叶店",
+      "department": "海沧客户服务部",
+      "score": 2.25,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 179,
+      "license_code": 350205105924,
+      "cust_name": "厦门市海沧区田翁旺便利店",
+      "department": "海沧客户服务部",
+      "score": 2,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 180,
+      "license_code": 350205106007,
+      "cust_name": "厦门市海沧区鑫潜隆便利店",
+      "department": "海沧客户服务部",
+      "score": 1.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 181,
+      "license_code": 350205106058,
+      "cust_name": "厦门市海沧区谢艺玲烟酒经营部",
+      "department": "海沧客户服务部",
+      "score": 1.25,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 182,
+      "license_code": 350205106059,
+      "cust_name": "厦门市海沧区鑫堃诚烟酒茶经营部",
+      "department": "海沧客户服务部",
+      "score": 2.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 183,
+      "license_code": 350205106076,
+      "cust_name": "厦门市海沧区朱秀福食杂店",
+      "department": "海沧客户服务部",
+      "score": 2.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 184,
+      "license_code": 350205106136,
+      "cust_name": "厦门市海沧区永长富便利店",
+      "department": "海沧客户服务部",
+      "score": 0.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 185,
+      "license_code": 350205106185,
+      "cust_name": "厦门市海沧区福艺辉酒庄",
+      "department": "海沧客户服务部",
+      "score": 2.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 186,
+      "license_code": 350205106186,
+      "cust_name": "厦门市海沧区言晴烟酒茶商行",
+      "department": "海沧客户服务部",
+      "score": 2.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 187,
+      "license_code": 350205106221,
+      "cust_name": "厦门市海沧区庄岸宇便利店",
+      "department": "海沧客户服务部",
+      "score": 3.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 188,
+      "license_code": 350205106242,
+      "cust_name": "厦门市海沧区前佳豪烟酒商行",
+      "department": "海沧客户服务部",
+      "score": 3.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 189,
+      "license_code": 350205200004,
+      "cust_name": "厦门益寿经济发展有限公司",
+      "department": "海沧客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 190,
+      "license_code": 350205200149,
+      "cust_name": "厦门品好茶贸易有限公司",
+      "department": "海沧客户服务部",
+      "score": 2.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 191,
+      "license_code": 350205204289,
+      "cust_name": "厦门谷稻香酒业有限公司",
+      "department": "海沧客户服务部",
+      "score": 3.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 192,
+      "license_code": 350205204750,
+      "cust_name": "福厦堂生物科技有限公司",
+      "department": "海沧客户服务部",
+      "score": 4,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 193,
+      "license_code": 350205204999,
+      "cust_name": "厦门汇金泰来贸易有限公司",
+      "department": "海沧客户服务部",
+      "score": 3,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 194,
+      "license_code": 350205205072,
+      "cust_name": "厦门海方贸易有限公司",
+      "department": "海沧客户服务部",
+      "score": 1.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 195,
+      "license_code": 350206100357,
+      "cust_name": "厦门市湖里区刘治温日杂店",
+      "department": "湖里客户服务部",
+      "score": 3.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 196,
+      "license_code": 350206100495,
+      "cust_name": "厦门市湖里区江顺食杂店",
+      "department": "湖里客户服务部",
+      "score": 3,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 197,
+      "license_code": 350206100671,
+      "cust_name": "厦门市湖里区益品乐食杂店",
+      "department": "湖里客户服务部",
+      "score": 4,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 198,
+      "license_code": 350206101032,
+      "cust_name": "厦门市湖里区鸿鑫来食杂店",
+      "department": "湖里客户服务部",
+      "score": 4,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 199,
+      "license_code": 350206101070,
+      "cust_name": "厦门市湖里区龙山食杂店",
+      "department": "湖里客户服务部",
+      "score": 2.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 200,
+      "license_code": 350206101153,
+      "cust_name": "厦门市湖里区华淑远食杂店",
+      "department": "湖里客户服务部",
+      "score": 4,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 201,
+      "license_code": 350206101463,
+      "cust_name": "厦门市湖里区兆辉茶叶店",
+      "department": "湖里客户服务部",
+      "score": 3.25,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 202,
+      "license_code": 350206101767,
+      "cust_name": "厦门市湖里区隔壁家便利店",
+      "department": "湖里客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 203,
+      "license_code": 350206101807,
+      "cust_name": "厦门市湖里区实福食杂店",
+      "department": "湖里客户服务部",
+      "score": 3.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 204,
+      "license_code": 350206101895,
+      "cust_name": "厦门市湖里区琦羚食杂店",
+      "department": "湖里客户服务部",
+      "score": 3.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 205,
+      "license_code": 350206104099,
+      "cust_name": "厦门市湖里区陈文田食杂店",
+      "department": "湖里客户服务部",
+      "score": 3.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 206,
+      "license_code": 350206104120,
+      "cust_name": "厦门市湖里区吉汇通便利店",
+      "department": "湖里客户服务部",
+      "score": 1,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 207,
+      "license_code": 350206104260,
+      "cust_name": "嘉嘉鸿食杂店",
+      "department": "湖里客户服务部",
+      "score": 3,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 208,
+      "license_code": 350206104641,
+      "cust_name": "厦门市湖里区王石金食杂店",
+      "department": "湖里客户服务部",
+      "score": 0.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 209,
+      "license_code": 350206104868,
+      "cust_name": "厦门市湖里区心益民食杂店",
+      "department": "湖里客户服务部",
+      "score": 1.25,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 210,
+      "license_code": 350206105202,
+      "cust_name": "厦门市湖里区陈远东便利店",
+      "department": "湖里客户服务部",
+      "score": 1.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 211,
+      "license_code": 350206105342,
+      "cust_name": "厦门市湖里区旺达星食杂店",
+      "department": "湖里客户服务部",
+      "score": 1.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 212,
+      "license_code": 350206106219,
+      "cust_name": "鑫万益便利店",
+      "department": "湖里客户服务部",
+      "score": 3.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 213,
+      "license_code": 350206106601,
+      "cust_name": "厦门市湖里区鑫嘉泽超市",
+      "department": "湖里客户服务部",
+      "score": 4,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 214,
+      "license_code": 350206106742,
+      "cust_name": "厦门市湖里区谊宝便利店",
+      "department": "湖里客户服务部",
+      "score": 2.25,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 215,
+      "license_code": 350206106775,
+      "cust_name": "厦门市湖里区肖金福食品店",
+      "department": "湖里客户服务部",
+      "score": 3,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 216,
+      "license_code": 350206106923,
+      "cust_name": "厦门市湖里区肖九永便利店",
+      "department": "湖里客户服务部",
+      "score": 2,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 217,
+      "license_code": 350206107150,
+      "cust_name": "厦门市湖里区赵小糖便利店",
+      "department": "湖里客户服务部",
+      "score": 3.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 218,
+      "license_code": 350206107212,
+      "cust_name": "厦门市湖里区徐鸿燊便利店",
+      "department": "湖里客户服务部",
+      "score": 2,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 219,
+      "license_code": 350206107536,
+      "cust_name": "厦门市湖里区美付志刚便利店",
+      "department": "湖里客户服务部",
+      "score": 0.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 220,
+      "license_code": 350206107603,
+      "cust_name": "厦门市湖里区陈万红便利店",
+      "department": "湖里客户服务部",
+      "score": 4,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 221,
+      "license_code": 350206107802,
+      "cust_name": "厦门市湖里区谢文昊便利店",
+      "department": "湖里客户服务部",
+      "score": 3.75,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 222,
+      "license_code": 350206107935,
+      "cust_name": "厦门市湖里区旺泰隆超市",
+      "department": "湖里客户服务部",
+      "score": 0.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 223,
+      "license_code": 350206107992,
+      "cust_name": "厦门市湖里区安琪贝贝便利店",
+      "department": "湖里客户服务部",
+      "score": 2.25,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 224,
+      "license_code": 350206108058,
+      "cust_name": "厦门市湖里区更生发食杂店",
+      "department": "湖里客户服务部",
+      "score": 2,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 225,
+      "license_code": 350206108693,
+      "cust_name": "厦门市湖里区赖绍婷食杂店",
+      "department": "湖里客户服务部",
+      "score": 2,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 226,
+      "license_code": 350206108694,
+      "cust_name": "厦门市湖里区许伟生茶叶店",
+      "department": "湖里客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 227,
+      "license_code": 350206108806,
+      "cust_name": "厦门市湖里区秋良泓干货商行",
+      "department": "湖里客户服务部",
+      "score": 2,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 228,
+      "license_code": 350206108863,
+      "cust_name": "厦门市湖里区郑晓敏食杂店",
+      "department": "湖里客户服务部",
+      "score": 2,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 229,
+      "license_code": 350206108865,
+      "cust_name": "厦门市湖里区赵梓榆粮油店",
+      "department": "湖里客户服务部",
+      "score": 0.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 230,
+      "license_code": 350206109045,
+      "cust_name": "厦门市湖里区李珠女便利店",
+      "department": "湖里客户服务部",
+      "score": 3.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 231,
+      "license_code": 350206109058,
+      "cust_name": "厦门市湖里区陈里根便利店",
+      "department": "湖里客户服务部",
+      "score": 3,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 232,
+      "license_code": 350206109336,
+      "cust_name": "游艇驿站鲜花便利店",
+      "department": "湖里客户服务部",
+      "score": 3,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 233,
+      "license_code": 350206109351,
+      "cust_name": "厦门市湖里区叶宏杰便利店",
+      "department": "湖里客户服务部",
+      "score": 4,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 234,
+      "license_code": 350206109439,
+      "cust_name": "厦门市湖里区冠品艺酒类经营部",
+      "department": "湖里客户服务部",
+      "score": 3,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 235,
+      "license_code": 350206109479,
+      "cust_name": "厦门市湖里区陈坤寿便利店",
+      "department": "湖里客户服务部",
+      "score": 3.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 236,
+      "license_code": 350206109654,
+      "cust_name": "厦门市湖里区逸萱阁茗茶店",
+      "department": "湖里客户服务部",
+      "score": 3,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 237,
+      "license_code": 350206109715,
+      "cust_name": "厦门市湖里区黄玉鑫兴烟酒商行",
+      "department": "湖里客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 238,
+      "license_code": 350206109747,
+      "cust_name": "厦门市湖里区津鼎商便利店",
+      "department": "湖里客户服务部",
+      "score": 2.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 239,
+      "license_code": 350206109929,
+      "cust_name": "厦门市湖里区解吾忧便利店",
+      "department": "湖里客户服务部",
+      "score": 3,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 240,
+      "license_code": 350206109966,
+      "cust_name": "厦门市湖里区张剑锋百货店",
+      "department": "湖里客户服务部",
+      "score": 3.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 241,
+      "license_code": 350206109982,
+      "cust_name": "厦门市湖里区洪和食杂店",
+      "department": "湖里客户服务部",
+      "score": 3.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 242,
+      "license_code": 350206109985,
+      "cust_name": "厦门市湖里区草木夫百货商行",
+      "department": "湖里客户服务部",
+      "score": 2.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 243,
+      "license_code": 350206110127,
+      "cust_name": "厦门市湖里区草根园烟酒商行",
+      "department": "湖里客户服务部",
+      "score": 2.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 244,
+      "license_code": 350206110135,
+      "cust_name": "厦门市湖里区德健义烟店",
+      "department": "湖里客户服务部",
+      "score": 0.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 245,
+      "license_code": 350206110176,
+      "cust_name": "厦门市湖里区林智聪便利店",
+      "department": "湖里客户服务部",
+      "score": 3.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 246,
+      "license_code": 350206110325,
+      "cust_name": "厦门市湖里区锦园兴晟烟酒商行",
+      "department": "湖里客户服务部",
+      "score": 3.75,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 247,
+      "license_code": 350206110352,
+      "cust_name": "厦门市湖里区黄明珠兴旺茶馆",
+      "department": "湖里客户服务部",
+      "score": 1,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 248,
+      "license_code": 350206110387,
+      "cust_name": "厦门市湖里区陈培松茶叶店",
+      "department": "湖里客户服务部",
+      "score": 0.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 249,
+      "license_code": 350206110441,
+      "cust_name": "厦门市湖里区欣濠顺酒业商行",
+      "department": "湖里客户服务部",
+      "score": 2,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 250,
+      "license_code": 350206200340,
+      "cust_name": "鑫舜发贸易有限公司",
+      "department": "湖里客户服务部",
+      "score": 2.25,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 251,
+      "license_code": 350206200420,
+      "cust_name": "厦门日溢鑫贸易有限公司",
+      "department": "湖里客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 252,
+      "license_code": 350206210388,
+      "cust_name": "厦门叁金鑫贸易有限公司",
+      "department": "湖里客户服务部",
+      "score": 1.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 253,
+      "license_code": 350211100579,
+      "cust_name": "厦门市集美区仁成副食品店",
+      "department": "集美客户服务部",
+      "score": 1.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 254,
+      "license_code": 350211100765,
+      "cust_name": "厦门市集美区崇庆副食品店",
+      "department": "集美客户服务部",
+      "score": 3.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 255,
+      "license_code": 350211101004,
+      "cust_name": "厦门市集美区魏启欣副食品店",
+      "department": "集美客户服务部",
+      "score": 1,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 256,
+      "license_code": 350211101077,
+      "cust_name": "厦门市集美区鑫鑫副食品店",
+      "department": "集美客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 257,
+      "license_code": 350211101085,
+      "cust_name": "厦门市集美区荣训副食品店",
+      "department": "集美客户服务部",
+      "score": 2.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 258,
+      "license_code": 350211101313,
+      "cust_name": "厦门市集美区雅榕副食品店",
+      "department": "集美客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 259,
+      "license_code": 350211101534,
+      "cust_name": "厦门市集美区玉永副食品店",
+      "department": "集美客户服务部",
+      "score": 4,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 260,
+      "license_code": 350211101628,
+      "cust_name": "厦门市集美区亿琴副食品店",
+      "department": "集美客户服务部",
+      "score": 4,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 261,
+      "license_code": 350211101652,
+      "cust_name": "厦门市集美区芯隆盛副食品店",
+      "department": "集美客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 262,
+      "license_code": 350211101677,
+      "cust_name": "厦门市集美区生道副食品店",
+      "department": "集美客户服务部",
+      "score": 2.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 263,
+      "license_code": 350211102068,
+      "cust_name": "厦门市集美区悦月副食品店",
+      "department": "集美客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 264,
+      "license_code": 350211102305,
+      "cust_name": "厦门市集美区铭旺家副食品店",
+      "department": "集美客户服务部",
+      "score": 1.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 265,
+      "license_code": 350211102487,
+      "cust_name": "厦门市集美区盛元香茶店",
+      "department": "集美客户服务部",
+      "score": 0.75,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 266,
+      "license_code": 350211102541,
+      "cust_name": "厦门市集美区欣佳加惠副食品店",
+      "department": "集美客户服务部",
+      "score": 3.25,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 267,
+      "license_code": 350211102928,
+      "cust_name": "厦门市集美区信盈鑫副食品店",
+      "department": "集美客户服务部",
+      "score": 2.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 268,
+      "license_code": 350211103368,
+      "cust_name": "厦门市集美区耀珍副食品店",
+      "department": "集美客户服务部",
+      "score": 4,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 269,
+      "license_code": 350211103777,
+      "cust_name": "厦门市集美区秀青副食品店",
+      "department": "集美客户服务部",
+      "score": 3,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 270,
+      "license_code": 350211103847,
+      "cust_name": "源泉鑫副食品店",
+      "department": "集美客户服务部",
+      "score": 2.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 271,
+      "license_code": 350211104249,
+      "cust_name": "厦门市集美区邱记盛鑫隆超市",
+      "department": "集美客户服务部",
+      "score": 2.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 272,
+      "license_code": 350211104326,
+      "cust_name": "厦门市集美区乐乐士副食品店",
+      "department": "集美客户服务部",
+      "score": 2.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 273,
+      "license_code": 350211104342,
+      "cust_name": "厦门市集美区名泉副食品店",
+      "department": "集美客户服务部",
+      "score": 2,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 274,
+      "license_code": 350211104680,
+      "cust_name": "厦门市集美区六便士副食品店",
+      "department": "集美客户服务部",
+      "score": 4,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 275,
+      "license_code": 350211104723,
+      "cust_name": "厦门市集美区汇丰福副食品店",
+      "department": "集美客户服务部",
+      "score": 1,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 276,
+      "license_code": 350211105013,
+      "cust_name": "厦门市集美区朱凌斌副食品店",
+      "department": "集美客户服务部",
+      "score": 1.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 277,
+      "license_code": 350211105076,
+      "cust_name": "厦门市集美区阿紫酒类经营部",
+      "department": "集美客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 278,
+      "license_code": 350211105318,
+      "cust_name": "厦门市集美区林芳明副食品店",
+      "department": "集美客户服务部",
+      "score": 1,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 279,
+      "license_code": 350211105369,
+      "cust_name": "厦门市集美区荣建华副食品店",
+      "department": "集美客户服务部",
+      "score": 3.75,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 280,
+      "license_code": 350211105526,
+      "cust_name": "厦门市集美区兴旺联超市",
+      "department": "集美客户服务部",
+      "score": 2,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 281,
+      "license_code": 350211105608,
+      "cust_name": "厦门市集美区林云电食杂店",
+      "department": "集美客户服务部",
+      "score": 1.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 282,
+      "license_code": 350211105615,
+      "cust_name": "厦门市集美区万乐泉副食品店",
+      "department": "集美客户服务部",
+      "score": 1,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 283,
+      "license_code": 350211105753,
+      "cust_name": "厦门市集美区礼城超市",
+      "department": "集美客户服务部",
+      "score": 3.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 284,
+      "license_code": 350211105809,
+      "cust_name": "厦门市集美区刘天生副食品店",
+      "department": "集美客户服务部",
+      "score": 1.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 285,
+      "license_code": 350211105810,
+      "cust_name": "厦门市集美区魏明金副食品店",
+      "department": "集美客户服务部",
+      "score": 3,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 286,
+      "license_code": 350211106005,
+      "cust_name": "厦门市集美区游国州副食品店",
+      "department": "集美客户服务部",
+      "score": 3.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 287,
+      "license_code": 350211106127,
+      "cust_name": "厦门市集美区淘点点副食品店",
+      "department": "集美客户服务部",
+      "score": 2,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 288,
+      "license_code": 350211106207,
+      "cust_name": "厦门市集美区宜邻晶副食品店",
+      "department": "集美客户服务部",
+      "score": 2,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 289,
+      "license_code": 350211106539,
+      "cust_name": "厦门市集美区拇指赞副食品店",
+      "department": "集美客户服务部",
+      "score": 1,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 290,
+      "license_code": 350211106938,
+      "cust_name": "厦门市集美区惠民义副食品店",
+      "department": "集美客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 291,
+      "license_code": 350211106956,
+      "cust_name": "厦门市集美区绿宝尚品副食品店",
+      "department": "集美客户服务部",
+      "score": 3,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 292,
+      "license_code": 350211107150,
+      "cust_name": "厦门市集美区黄家群副食品店",
+      "department": "集美客户服务部",
+      "score": 1.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 293,
+      "license_code": 350211107151,
+      "cust_name": "厦门市集美区黄屋科副食品店",
+      "department": "集美客户服务部",
+      "score": 4,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 294,
+      "license_code": 350211107528,
+      "cust_name": "厦门市集美区莉鸿鑫副食品店",
+      "department": "集美客户服务部",
+      "score": 2,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 295,
+      "license_code": 350211107740,
+      "cust_name": "厦门市集美区樱木茶叶店",
+      "department": "集美客户服务部",
+      "score": 1,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 296,
+      "license_code": 350211107878,
+      "cust_name": "厦门市集美区美瑾副食品店",
+      "department": "集美客户服务部",
+      "score": 3.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 297,
+      "license_code": 350211108080,
+      "cust_name": "厦门市集美区王文胜珩山二里副食品店",
+      "department": "集美客户服务部",
+      "score": 2.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 298,
+      "license_code": 350211108320,
+      "cust_name": "厦门市集美区安居优品副食品店",
+      "department": "集美客户服务部",
+      "score": 3.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 299,
+      "license_code": 350211108384,
+      "cust_name": "厦门市集美区陈清福茶叶店",
+      "department": "集美客户服务部",
+      "score": 2,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 300,
+      "license_code": 350211108406,
+      "cust_name": "厦门市集美区雅茗阁烟酒经营部",
+      "department": "集美客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 301,
+      "license_code": 350211108436,
+      "cust_name": "厦门市集美区叶炳金超市",
+      "department": "集美客户服务部",
+      "score": 2.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 302,
+      "license_code": 350211108610,
+      "cust_name": "厦门市集美区雪心副食品店",
+      "department": "集美客户服务部",
+      "score": 1,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 303,
+      "license_code": 350211108630,
+      "cust_name": "厦门集美区程云副食品店",
+      "department": "集美客户服务部",
+      "score": 1.5,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 304,
+      "license_code": 350211108688,
+      "cust_name": "厦门市集美区游扬钦副食品店",
+      "department": "集美客户服务部",
+      "score": 3.75,
+      "reason": "会员拓展未达标"
+    },
+    {
+      "sort": 305,
+      "license_code": 350211108694,
+      "cust_name": "厦门市集美区旺轩晋副食品店",
+      "department": "集美客户服务部",
+      "score": 1,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 306,
+      "license_code": 350211108739,
+      "cust_name": "厦门市集美区佳恩惠副食品店",
+      "department": "集美客户服务部",
+      "score": 2.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 307,
+      "license_code": 350211109113,
+      "cust_name": "厦门市集美区徕隆趣卖食杂店",
+      "department": "集美客户服务部",
+      "score": 4,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 308,
+      "license_code": 350211109231,
+      "cust_name": "厦门市集美区豪佳程烟酒商行",
+      "department": "集美客户服务部",
+      "score": 4,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 309,
+      "license_code": 350211109395,
+      "cust_name": "厦门市集美区欣天红超市",
+      "department": "集美客户服务部",
+      "score": 1,
+      "reason": "会员拓展未达标"
+    },
+    {
+      "sort": 310,
+      "license_code": 350211109407,
+      "cust_name": "厦门市集美区张金川龙头东副食品店",
+      "department": "集美客户服务部",
+      "score": 2,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 311,
+      "license_code": 350211109435,
+      "cust_name": "厦门市集美区吴小聪烟酒商行",
+      "department": "集美客户服务部",
+      "score": 4,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 312,
+      "license_code": 350211109546,
+      "cust_name": "厦门市集美区娟大爷副食品店",
+      "department": "集美客户服务部",
+      "score": 1,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 313,
+      "license_code": 350212100167,
+      "cust_name": "厦门市同安区周秀好日用百货商店",
+      "department": "同安客户服务部",
+      "score": 3.25,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 314,
+      "license_code": 350212100184,
+      "cust_name": "厦门市同安区福朝副食品商店",
+      "department": "同安客户服务部",
+      "score": 1.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 315,
+      "license_code": 350212100367,
+      "cust_name": "厦门市同安永雪百货商店",
+      "department": "同安客户服务部",
+      "score": 3,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 316,
+      "license_code": 350212100493,
+      "cust_name": "厦门市同安区清拓成百货商店",
+      "department": "同安客户服务部",
+      "score": 3.75,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 317,
+      "license_code": 350212100627,
+      "cust_name": "厦门市同安区郭燕花食杂店",
+      "department": "同安客户服务部",
+      "score": 0.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 318,
+      "license_code": 350212102061,
+      "cust_name": "厦门市同安区燕铖副食品商店",
+      "department": "同安客户服务部",
+      "score": 4,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 319,
+      "license_code": 350212102565,
+      "cust_name": "厦门市同安区荭锦副食品商店",
+      "department": "同安客户服务部",
+      "score": 2.75,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 320,
+      "license_code": 350212102923,
+      "cust_name": "厦门市同安区亿丰旺副食品商店",
+      "department": "同安客户服务部",
+      "score": 3.25,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 321,
+      "license_code": 350212103263,
+      "cust_name": "厦门市同安区阿智顺和副食品商店",
+      "department": "同安客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 322,
+      "license_code": 350212103329,
+      "cust_name": "厦门市同安区吴文圳副食品商店",
+      "department": "同安客户服务部",
+      "score": 3,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 323,
+      "license_code": 350212103551,
+      "cust_name": "厦门市同安区因心副食品商店",
+      "department": "同安客户服务部",
+      "score": 3.25,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 324,
+      "license_code": 350212103634,
+      "cust_name": "厦门市同安区永福惠副食品商店",
+      "department": "同安客户服务部",
+      "score": 4,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 325,
+      "license_code": 350212104502,
+      "cust_name": "厦门市同安区得旺副食品商店",
+      "department": "同安客户服务部",
+      "score": 2.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 326,
+      "license_code": 350212104766,
+      "cust_name": "厦门市同安区黄思远远副食品商店",
+      "department": "同安客户服务部",
+      "score": 4,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 327,
+      "license_code": 350212104873,
+      "cust_name": "厦门市同安区廖志强副食品商店",
+      "department": "同安客户服务部",
+      "score": 3,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 328,
+      "license_code": 350212104948,
+      "cust_name": "厦门市同安区叶腾日用品店",
+      "department": "同安客户服务部",
+      "score": 4,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 329,
+      "license_code": 350212104964,
+      "cust_name": "厦门市同安区鹏雨副食品商店",
+      "department": "同安客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 330,
+      "license_code": 350212105337,
+      "cust_name": "厦门市同安区文淑彤副食品商店",
+      "department": "同安客户服务部",
+      "score": 3.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 331,
+      "license_code": 350212105356,
+      "cust_name": "厦门市同安区家丽副食品商店",
+      "department": "同安客户服务部",
+      "score": 2.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 332,
+      "license_code": 350212105469,
+      "cust_name": "厦门市同安区速乐捷食品经营部",
+      "department": "同安客户服务部",
+      "score": 1,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 333,
+      "license_code": 350212105536,
+      "cust_name": "厦门市同安区梓韬食品商店",
+      "department": "同安客户服务部",
+      "score": 0.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 334,
+      "license_code": 350212105694,
+      "cust_name": "厦门市同安区鑫银隆食品经营部",
+      "department": "同安客户服务部",
+      "score": 1.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 335,
+      "license_code": 350212105742,
+      "cust_name": "厦门市同安区素云云副食品商店",
+      "department": "同安客户服务部",
+      "score": 1.25,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 336,
+      "license_code": 350212106006,
+      "cust_name": "厦门市同安区惠庄副食品商店",
+      "department": "同安客户服务部",
+      "score": 4,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 337,
+      "license_code": 350212106128,
+      "cust_name": "厦门市同安区辛金铜便利店",
+      "department": "同安客户服务部",
+      "score": 3.25,
+      "reason": "会员拓展未达标"
+    },
+    {
+      "sort": 338,
+      "license_code": 350212106263,
+      "cust_name": "厦门市同安区吕鑫桐副食品商店",
+      "department": "同安客户服务部",
+      "score": 4,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 339,
+      "license_code": 350212106367,
+      "cust_name": "厦门市同安区来吧便利店",
+      "department": "同安客户服务部",
+      "score": 1,
+      "reason": "会员拓展未达标"
+    },
+    {
+      "sort": 340,
+      "license_code": 350212106450,
+      "cust_name": "厦门市同安区芳旗便利店",
+      "department": "同安客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 341,
+      "license_code": 350212106488,
+      "cust_name": "厦门市同安区晴辉食杂店",
+      "department": "同安客户服务部",
+      "score": 0.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 342,
+      "license_code": 350212106688,
+      "cust_name": "厦门市同安区洪洪便利店",
+      "department": "同安客户服务部",
+      "score": 2.75,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 343,
+      "license_code": 350212106718,
+      "cust_name": "厦门市同安区叶燕红副食品商店",
+      "department": "同安客户服务部",
+      "score": 3.5,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 344,
+      "license_code": 350212106745,
+      "cust_name": "厦门市同安区恒馨便利店",
+      "department": "同安客户服务部",
+      "score": 0.5,
+      "reason": "会员拓展未达标"
+    },
+    {
+      "sort": 345,
+      "license_code": 350212106944,
+      "cust_name": "厦门市同安区道凤副食品商店",
+      "department": "同安客户服务部",
+      "score": 2,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 346,
+      "license_code": 350212107383,
+      "cust_name": "厦门市同安区盛格副食品商店",
+      "department": "同安客户服务部",
+      "score": 1.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 347,
+      "license_code": 350212107441,
+      "cust_name": "厦门市同安区洪寒花副食品商店",
+      "department": "同安客户服务部",
+      "score": 1,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 348,
+      "license_code": 350212107702,
+      "cust_name": "厦门市同安区红华峰便利店",
+      "department": "同安客户服务部",
+      "score": 1,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 349,
+      "license_code": 350212107776,
+      "cust_name": "厦门市同安区池美丽食杂店",
+      "department": "同安客户服务部",
+      "score": 2.5,
+      "reason": "会员拓展未达标"
+    },
+    {
+      "sort": 350,
+      "license_code": 350212107801,
+      "cust_name": "厦门市同安区浚柏酒业经营部",
+      "department": "同安客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 351,
+      "license_code": 350212107839,
+      "cust_name": "厦门市同安区曾金火便利店",
+      "department": "同安客户服务部",
+      "score": 1.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 352,
+      "license_code": 350212107987,
+      "cust_name": "厦门市同安区零五九八副食品店",
+      "department": "同安客户服务部",
+      "score": 2,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 353,
+      "license_code": 350212108033,
+      "cust_name": "厦门市同安区零嘴乐食品店",
+      "department": "同安客户服务部",
+      "score": 2.5,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 354,
+      "license_code": 350212108220,
+      "cust_name": "厦门市同安区妮妮乐超市",
+      "department": "同安客户服务部",
+      "score": 2.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 355,
+      "license_code": 350212108262,
+      "cust_name": "厦门市同安区馨熠梅烟酒商行",
+      "department": "同安客户服务部",
+      "score": 2.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 356,
+      "license_code": 350212108265,
+      "cust_name": "厦门市同安区阳清蔬菜店",
+      "department": "同安客户服务部",
+      "score": 4,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 357,
+      "license_code": 350212108295,
+      "cust_name": "厦门市同安区益多宝便利店",
+      "department": "同安客户服务部",
+      "score": 1.5,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 358,
+      "license_code": 350212108444,
+      "cust_name": "厦门市同安区欣萌媛烟酒商店",
+      "department": "同安客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 359,
+      "license_code": 350212108703,
+      "cust_name": "厦门市同安区金燕麦田生鲜超市",
+      "department": "同安客户服务部",
+      "score": 1,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 360,
+      "license_code": 350212109199,
+      "cust_name": "厦门市同安区诗美涵荣便利店",
+      "department": "同安客户服务部",
+      "score": 2,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 361,
+      "license_code": 350212109211,
+      "cust_name": "厦门市同安区福夕照烟酒商行",
+      "department": "同安客户服务部",
+      "score": 2,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 362,
+      "license_code": 350212200378,
+      "cust_name": "厦门巨沣贸易有限公司",
+      "department": "同安客户服务部",
+      "score": 3,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 363,
+      "license_code": 350213100217,
+      "cust_name": "厦门市翔安区戴小红食杂店",
+      "department": "翔安客户服务部",
+      "score": 3,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 364,
+      "license_code": 350213100352,
+      "cust_name": "厦门市翔安区林佳豪食杂店",
+      "department": "翔安客户服务部",
+      "score": 2.25,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 365,
+      "license_code": 350213100446,
+      "cust_name": "厦门市翔安区邱碧瑶日用百货店",
+      "department": "翔安客户服务部",
+      "score": 0.75,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 366,
+      "license_code": 350213100451,
+      "cust_name": "厦门市翔安区宋志源烟杂店",
+      "department": "翔安客户服务部",
+      "score": 1,
+      "reason": "会员拓展未达标"
+    },
+    {
+      "sort": 367,
+      "license_code": 350213100552,
+      "cust_name": "厦门市翔安区黄庆树日用品店",
+      "department": "翔安客户服务部",
+      "score": 2,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 368,
+      "license_code": 350213100588,
+      "cust_name": "厦门市翔安区翔彩珍烟杂店",
+      "department": "翔安客户服务部",
+      "score": 3.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 369,
+      "license_code": 350213101016,
+      "cust_name": "厦门市翔安区彭为民日用百货店",
+      "department": "翔安客户服务部",
+      "score": 4,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 370,
+      "license_code": 350213101257,
+      "cust_name": "厦门市翔安区金品园便利店",
+      "department": "翔安客户服务部",
+      "score": 0.5,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 371,
+      "license_code": 350213101292,
+      "cust_name": "厦门市翔安区郭丽真食杂店",
+      "department": "翔安客户服务部",
+      "score": 1,
+      "reason": "会员拓展未达标"
+    },
+    {
+      "sort": 372,
+      "license_code": 350213101318,
+      "cust_name": "厦门市翔安区金福堉日用品店",
+      "department": "翔安客户服务部",
+      "score": 1.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 373,
+      "license_code": 350213101648,
+      "cust_name": "厦门市翔安区实惠堂食杂店",
+      "department": "翔安客户服务部",
+      "score": 1.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 374,
+      "license_code": 350213101685,
+      "cust_name": "厦门市翔安区嘉家兴食杂店",
+      "department": "翔安客户服务部",
+      "score": 4,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 375,
+      "license_code": 350213101695,
+      "cust_name": "厦门市翔安区康必燎便利店",
+      "department": "翔安客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 376,
+      "license_code": 350213101810,
+      "cust_name": "厦门市翔安区吉旺嘉便利店",
+      "department": "翔安客户服务部",
+      "score": 1.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 377,
+      "license_code": 350213102163,
+      "cust_name": "厦门市同安区松朝食杂店",
+      "department": "同安客户服务部",
+      "score": 1,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 378,
+      "license_code": 350213102186,
+      "cust_name": "厦门市翔安区鑫翔城便利店",
+      "department": "翔安客户服务部",
+      "score": 3,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 379,
+      "license_code": 350213102187,
+      "cust_name": "厦门市翔安区亿鑫隆食杂店",
+      "department": "翔安客户服务部",
+      "score": 3.75,
+      "reason": "会员拓展未达标"
+    },
+    {
+      "sort": 380,
+      "license_code": 350213102363,
+      "cust_name": "厦门市翔安区宋家约烟杂店",
+      "department": "翔安客户服务部",
+      "score": 1.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 381,
+      "license_code": 350213102524,
+      "cust_name": "厦门市翔安区馨利百家食品店",
+      "department": "翔安客户服务部",
+      "score": 2.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 382,
+      "license_code": 350213102525,
+      "cust_name": "厦门市翔安区馨悦恩食品店",
+      "department": "翔安客户服务部",
+      "score": 3,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 383,
+      "license_code": 350213102837,
+      "cust_name": "厦门市翔安区圆茗园茶叶经营部",
+      "department": "翔安客户服务部",
+      "score": 2.25,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 384,
+      "license_code": 350213102994,
+      "cust_name": "厦门市翔安区郑在林便利店",
+      "department": "翔安客户服务部",
+      "score": 2.75,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 385,
+      "license_code": 350213103004,
+      "cust_name": "厦门市翔安区福永塘便利店",
+      "department": "翔安客户服务部",
+      "score": 1,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 386,
+      "license_code": 350213103200,
+      "cust_name": "厦门市翔安区吴进花便利店",
+      "department": "翔安客户服务部",
+      "score": 3.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 387,
+      "license_code": 350213103469,
+      "cust_name": "厦门市翔安区加家福食杂店",
+      "department": "翔安客户服务部",
+      "score": 3.5,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 388,
+      "license_code": 350213103506,
+      "cust_name": "厦门市翔安区小堤便利店",
+      "department": "翔安客户服务部",
+      "score": 3.25,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 389,
+      "license_code": 350213103548,
+      "cust_name": "厦门市翔安区青云鑫便利店",
+      "department": "翔安客户服务部",
+      "score": 1,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 390,
+      "license_code": 350213103618,
+      "cust_name": "厦门市翔安区黄繁英便利店",
+      "department": "翔安客户服务部",
+      "score": 3.75,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 391,
+      "license_code": 350213103628,
+      "cust_name": "厦门市翔安区金小燕便利店",
+      "department": "翔安客户服务部",
+      "score": 1.5,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 392,
+      "license_code": 350213103658,
+      "cust_name": "厦门市翔安区连心连便利店",
+      "department": "翔安客户服务部",
+      "score": 0.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 393,
+      "license_code": 350213103797,
+      "cust_name": "厦门市翔安区龙和捷便利店",
+      "department": "翔安客户服务部",
+      "score": 1.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 394,
+      "license_code": 350213103890,
+      "cust_name": "厦门市翔安区希元邻食品店",
+      "department": "翔安客户服务部",
+      "score": 2.25,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 395,
+      "license_code": 350213103893,
+      "cust_name": "厦门市翔安区志信美食品店",
+      "department": "翔安客户服务部",
+      "score": 0.5,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 396,
+      "license_code": 350213104492,
+      "cust_name": "厦门市翔安区喜来悦便利店",
+      "department": "翔安客户服务部",
+      "score": 3.75,
+      "reason": "会员拓展未达标"
+    },
+    {
+      "sort": 397,
+      "license_code": 350213104544,
+      "cust_name": "厦门市翔安区鑫丹帝酒类经营部",
+      "department": "翔安客户服务部",
+      "score": 4,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 398,
+      "license_code": 350213104608,
+      "cust_name": "厦门市翔安区菜苗浦食杂店",
+      "department": "翔安客户服务部",
+      "score": 3.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 399,
+      "license_code": 350213104685,
+      "cust_name": "厦门市翔安区旭日诗凡便利店",
+      "department": "翔安客户服务部",
+      "score": 4,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 400,
+      "license_code": 350213104750,
+      "cust_name": "厦门市翔安区东方渔庄饭店",
+      "department": "翔安客户服务部",
+      "score": 0.75,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 401,
+      "license_code": 350213104866,
+      "cust_name": "厦门市翔安区敬鑫洋食杂店",
+      "department": "翔安客户服务部",
+      "score": 3,
+      "reason": "会员拓展未达标"
+    },
+    {
+      "sort": 402,
+      "license_code": 350213104913,
+      "cust_name": "厦门市翔安区佳盛兰超市",
+      "department": "翔安客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 403,
+      "license_code": 350213105046,
+      "cust_name": "厦门市翔安区人山人海食杂店",
+      "department": "翔安客户服务部",
+      "score": 2.75,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 404,
+      "license_code": 350213105089,
+      "cust_name": "厦门市翔安区赖冬兰便利店",
+      "department": "翔安客户服务部",
+      "score": 2,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 405,
+      "license_code": 350213105130,
+      "cust_name": "厦门市翔安区甸园居便利店",
+      "department": "翔安客户服务部",
+      "score": 1,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 406,
+      "license_code": 350213105226,
+      "cust_name": "厦门市翔安区珍记金兰餐饮店",
+      "department": "翔安客户服务部",
+      "score": 1,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 407,
+      "license_code": 350213105313,
+      "cust_name": "厦门市翔安区华燕红食杂店",
+      "department": "翔安客户服务部",
+      "score": 1.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 408,
+      "license_code": 350213105373,
+      "cust_name": "厦门市翔安区一品百味烟酒经营部",
+      "department": "翔安客户服务部",
+      "score": 1.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 409,
+      "license_code": 350213105596,
+      "cust_name": "厦门市翔安区海程航食品店",
+      "department": "翔安客户服务部",
+      "score": 1,
+      "reason": "总扫码次数过低"
+    },
+    {
+      "sort": 410,
+      "license_code": 350213105628,
+      "cust_name": "厦门市翔安区初见多多便利店",
+      "department": "翔安客户服务部",
+      "score": 1.5,
+      "reason": "会员拓展未达标"
+    },
+    {
+      "sort": 411,
+      "license_code": 350213105801,
+      "cust_name": "厦门市翔安区月星轩便利店",
+      "department": "翔安客户服务部",
+      "score": 2.25,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 412,
+      "license_code": 350213105843,
+      "cust_name": "厦门市翔安区秋秋燕食杂店",
+      "department": "翔安客户服务部",
+      "score": 3.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 413,
+      "license_code": 350213105861,
+      "cust_name": "厦门市翔安区欣翔鹭日用百货店",
+      "department": "翔安客户服务部",
+      "score": 2.5,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 414,
+      "license_code": 350213106055,
+      "cust_name": "厦门市翔安区蒲旺家便利店",
+      "department": "翔安客户服务部",
+      "score": 3.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 415,
+      "license_code": 350213106082,
+      "cust_name": "厦门市翔安区和一鸿达便利店",
+      "department": "翔安客户服务部",
+      "score": 3.5,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 416,
+      "license_code": 350213106102,
+      "cust_name": "厦门市翔安区鑫鼎泰丰茶叶店",
+      "department": "翔安客户服务部",
+      "score": 2,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 417,
+      "license_code": 350213106296,
+      "cust_name": "厦门市翔安区彭亚玲烟酒店",
+      "department": "翔安客户服务部",
+      "score": 2,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 418,
+      "license_code": 350213106302,
+      "cust_name": "厦门市翔安区盛志源商行",
+      "department": "翔安客户服务部",
+      "score": 1.5,
+      "reason": "未做库存盘点"
+    },
+    {
+      "sort": 419,
+      "license_code": 350213106320,
+      "cust_name": "厦门市翔安区恬安红烟酒经营部",
+      "department": "翔安客户服务部",
+      "score": 2.25,
+      "reason": "非烟扫码率未达标"
+    },
+    {
+      "sort": 420,
+      "license_code": 350213106419,
+      "cust_name": "厦门市翔安区榆登食品经营部",
+      "department": "翔安客户服务部",
+      "score": 1,
+      "reason": "主动支付率未达标"
+    },
+    {
+      "sort": 421,
+      "license_code": 350213106522,
+      "cust_name": "厦门市翔安区范妙江便利店",
+      "department": "翔安客户服务部",
+      "score": 0,
+      "reason": "总扫码次数过低"
+    }
+  ]
+}

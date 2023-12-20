@@ -1,0 +1,38 @@
+{
+  "code": "success",
+  "msg": "查询成功！",
+  "data": {
+    "sex": [
+      { "name": "男", "count": 8630 },
+      { "name": "女", "count": 3408 }
+    ],
+    "career": [
+      { "name": "机关、企事业单位负责人", "count": 670 },
+      { "name": "公务员、事业单位人员", "count": 879 },
+      { "name": "企业专业人员、管理人员", "count": 1484 },
+      { "name": "产品工人", "count": 2068 },
+      { "name": "商业服务人员", "count": 1980 },
+      { "name": "文教医卫人员", "count": 810 },
+      { "name": "个体业主", "count": 1483 },
+      { "name": "农牧渔业者", "count": 1126 },
+      { "name": "离退休人员", "count": 525 },
+      { "name": "学生", "count": 414 },
+      { "name": "其他", "count": 599 }
+    ],
+    "smoker": [
+      { "name": "小于5年", "count": 3051 },
+      { "name": "大于5年", "count": 3100 },
+      { "name": "大于10年", "count": 2941 },
+      { "name": "大于20年", "count": 2946 }
+    ],
+    "age_range": [
+      { "name": "18-25岁", "count": 1989 },
+      { "name": "26-30岁", "count": 2648 },
+      { "name": "31-40岁", "count": 2672 },
+      { "name": "41-50岁", "count": 1934 },
+      { "name": "51-60岁", "count": 1860 },
+      { "name": "61岁以上", "count": 935 }
+    ],
+    "total": 12038
+  }
+}

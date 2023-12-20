@@ -1,0 +1,30 @@
+{
+  "code": "success",
+  "msg": "查询成功！",
+  "data": [
+    {
+      "department_name": "思明区局",
+      "customer_num": 507,
+      "e_pass_num": 397,
+      "e_pass_rate": 78.3
+    },
+    {
+      "department_name": "湖里区局",
+      "customer_num": 498,
+      "e_pass_num": 450,
+      "e_pass_rate": 90.36
+    },
+    {
+      "department_name": "集美区局",
+      "customer_num": 950,
+      "e_pass_num": 831,
+      "e_pass_rate": 87.47
+    },
+    {
+      "department_name": "第一分局",
+      "customer_num": 1067,
+      "e_pass_num": 974,
+      "e_pass_rate": 91.28
+    }
+  ]
+}

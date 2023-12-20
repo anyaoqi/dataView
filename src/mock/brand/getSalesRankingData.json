@@ -1,0 +1,13 @@
+{
+  "code": "success",
+  "msg": "查询成功！",
+  "data": [
+    { "product_name": "利群(西子阳光)", "sale_qty": 5848.5 },
+    { "product_name": "利群(软长嘴)", "sale_qty": 5413.9 },
+    { "product_name": "利群(休闲细支)", "sale_qty": 4538.1 },
+    { "product_name": "利群(长嘴)", "sale_qty": 2649.9 },
+    { "product_name": "利群(阳光橙中支)", "sale_qty": 2523.3 },
+    { "product_name": "利群(山外山)", "sale_qty": 1764.6 },
+    { "product_name": "利群(硬）", "sale_qty": 1585.8 }
+  ]
+}

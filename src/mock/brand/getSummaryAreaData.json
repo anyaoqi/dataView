@@ -1,0 +1,5 @@
+{
+  "code": "success",
+  "msg": "查询成功！",
+  "data": [{"area":"同安","realValue":549,"value":544,"diff":5},{"area":"翔安","realValue":486,"value":492,"diff":-6},{"area":"合计","realValue":1035,"value":1036,"diff":-1}]
+}

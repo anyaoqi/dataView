@@ -1,0 +1,186 @@
+{
+  "code": "success",
+  "msg": "查询成功！",
+  "data": [
+    {
+      "release_date": "2023-09-27",
+      "release_point": 37850
+    },
+    {
+      "release_date": "2023-09-28",
+      "release_point": 35010
+    },
+    {
+      "release_date": "2023-09-29",
+      "release_point": 43300
+    },
+    {
+      "release_date": "2023-09-30",
+      "release_point": 29810
+    },
+    {
+      "release_date": "2023-10-01",
+      "release_point": 27110
+    },
+    {
+      "release_date": "2023-10-02",
+      "release_point": 29940
+    },
+    {
+      "release_date": "2023-10-03",
+      "release_point": 30510
+    },
+    {
+      "release_date": "2023-10-04",
+      "release_point": 30490
+    },
+    {
+      "release_date": "2023-10-05",
+      "release_point": 33770
+    },
+    {
+      "release_date": "2023-10-06",
+      "release_point": 32270
+    },
+    {
+      "release_date": "2023-10-07",
+      "release_point": 33650
+    },
+    {
+      "release_date": "2023-10-08",
+      "release_point": 39570
+    },
+    {
+      "release_date": "2023-10-09",
+      "release_point": 50340
+    },
+    {
+      "release_date": "2023-10-10",
+      "release_point": 55000
+    },
+    {
+      "release_date": "2023-10-11",
+      "release_point": 58970
+    },
+    {
+      "release_date": "2023-10-12",
+      "release_point": 60030
+    },
+    {
+      "release_date": "2023-10-13",
+      "release_point": 67200
+    },
+    {
+      "release_date": "2023-10-14",
+      "release_point": 71470
+    },
+    {
+      "release_date": "2023-10-15",
+      "release_point": 90730
+    },
+    {
+      "release_date": "2023-10-16",
+      "release_point": 112960
+    },
+    {
+      "release_date": "2023-10-17",
+      "release_point": 159450
+    },
+    {
+      "release_date": "2023-10-18",
+      "release_point": 184620
+    },
+    {
+      "release_date": "2023-10-19",
+      "release_point": 155690
+    },
+    {
+      "release_date": "2023-10-20",
+      "release_point": 147850
+    },
+    {
+      "release_date": "2023-10-21",
+      "release_point": 221600
+    },
+    {
+      "release_date": "2023-10-22",
+      "release_point": 221590
+    },
+    {
+      "release_date": "2023-10-23",
+      "release_point": 210100
+    },
+    {
+      "release_date": "2023-10-24",
+      "release_point": 255120
+    },
+    {
+      "release_date": "2023-10-25",
+      "release_point": 271070
+    },
+    {
+      "release_date": "2023-10-26",
+      "release_point": 243610
+    },
+    {
+      "release_date": "2023-10-27",
+      "release_point": 245680
+    },
+    {
+      "release_date": "2023-10-28",
+      "release_point": 239540
+    },
+    {
+      "release_date": "2023-10-29",
+      "release_point": 247010
+    },
+    {
+      "release_date": "2023-10-30",
+      "release_point": 331820
+    },
+    {
+      "release_date": "2023-10-31",
+      "release_point": 351990
+    },
+    {
+      "release_date": "2023-11-01",
+      "release_point": 363810
+    },
+    {
+      "release_date": "2023-11-02",
+      "release_point": 317480
+    },
+    {
+      "release_date": "2023-11-03",
+      "release_point": 290000
+    },
+    {
+      "release_date": "2023-11-04",
+      "release_point": 277350
+    },
+    {
+      "release_date": "2023-11-05",
+      "release_point": 273570
+    },
+    {
+      "release_date": "2023-11-06",
+      "release_point": 281710
+    },
+    {
+      "release_date": "2023-11-07",
+      "release_point": 224800
+    },
+    {
+      "release_date": "2023-11-08",
+      "release_point": 192050
+    },
+    {
+      "release_date": "2023-11-09",
+      "release_point": 188410
+    },
+    {
+      "release_date": "2023-11-10",
+      "release_point": 115370
+    }
+  ]
+}
