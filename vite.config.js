@@ -8,10 +8,10 @@ import eslint from 'vite-plugin-eslint'
 import json5Plugin from 'vite-plugin-json5'
 
 // eslint-disable-next-line no-undef
-const baseUrl = process.env.NODE_ENV === 'production' ? '/dashboard/' : '/'
+const baseUrl = process.env.NODE_ENV === 'production' ? '/dataView/' : '/'
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: './',
+  base: baseUrl,
   plugins: [
     vue(),
     vueJsx(),
