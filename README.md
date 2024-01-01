@@ -1,4 +1,33 @@
-# Vue项目
+# Vue3数据可视化大屏项目
+
+## 项目描述
+
+本项目是一个Vue3数据可视化大屏项目，通过地图和图表的方式展现数据。
+
+共有以下四个模块：
+
+* 消费者运营大屏
+* 积分推广大屏
+* 品牌培育大屏
+* 安装情况大屏
+
+### 项目预览
+
+**
+    在线地址：** [https://www.anyaoqi.com/dataView/](https://www.anyaoqi.com/dataView/)
+
+* 消费者运营大屏
+
+  ![](public/images/member.png)
+* 积分推广大屏
+
+  ![](public/images/intergral.png)
+* 品牌培育大屏
+
+  ![](public/images/brand.png)
+* 安装情况
+
+  ![](public/images/install.png)
 
 ## 环境要求
 
@@ -34,12 +63,8 @@
 * src
   * api   接口
   * assets 静态资源
-    * styles 样式
-      * variables.scss 全局变量
-      * main.scss 公共样式
-      * normalize.scss 样式重置
-    * images 图片
   * components  组件
+  * mock 数据模拟
   * router  路由
   * store  pinia状态管理
   * views 页面视图

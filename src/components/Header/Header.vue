@@ -24,7 +24,7 @@ const nav = reactive({
     },
     {
       routePath: '/install',
-      title: 'E福通可视化大屏',
+      title: '安装情况大屏',
     },
   ],
 })
